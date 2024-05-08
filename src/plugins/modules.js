@@ -52,8 +52,7 @@ Vue.use (VueClazyLoad);
 Vue.use(VueGeolocationApi);
 Vue.use(VueGoogleMaps, {
   load: {
-    key: window.__EZ_GMAPS_KEY || 'AIzaSyBTKZfC1-HI_ow5v-zPO9vVm7dFjpZCpWs',
-    //libraries: 'places', // not using this? can't find anything in project when searching.
+    key: window.__EZ_GMAPS_KEY,
   }
 });
 Vue.use(AsyncComputed);
