@@ -1,0 +1,244 @@
+{
+    "businessSlug": "JDHH9BS8JNE5M8YH",
+    "stripePublishable": "pk_test_SoQebsTMOLR2iExxLINSedwP",
+    "stripeLive": "",
+    "businessName": "Peter's True Value",
+    "favicon": "https:\/\/storage.googleapis.com\/content.ezadtv.com\/2020\/09\/30\/5f74b324d6de3_favicon_d1_res.png",
+    "colors": {
+        "primary": "#d0021b",
+        "secondary": "#000000",
+        "text": "#2f3540",
+        "background": "#F7F7F7",
+        "header": "#fff",
+        "headerLinkColor": "",
+        "headerText": "",
+        "navigation": "#fff",
+        "priceColor": "",
+        "promoPriceColor": ""
+    },
+    "layout": "default",
+    "font": "Roboto",
+    "logo": "https:\/\/storage.googleapis.com\/content.ezadtv.com\/2020\/09\/30\/5f74b32cdff86_Peter-sTrueValuelogo-1920w.png",
+    "subscribeBannerImage": "url('https:\/\/storage.googleapis.com\/content.ezadtv.com\/2020\/06\/01\/5ed5530c847ce_Generic.jpg')",
+    "buyingFromAlert": {
+        "background": "",
+        "textColor": "",
+        "visible": ""
+    },
+    "homeAlert": {
+        "visible": true,
+        "text": "Welcome to the new Peter's Hardware shopping website! Order products for In-Store Pickup by adding items to your cart!",
+        "background": "primary",
+        "textColor": "white",
+        "fontSize": 18,
+        "fontWeight": "bold"
+    },
+    "text": {
+        "featuredProductText": "",
+        "inStore": "In-Store",
+        "specialOrderWarning": "Free Shipping to Store Available",
+        "outOfStock": "Order for 3-5 day shipping to our store",
+        "noRentalItems": "There are no rental items",
+        "specialOrderTitle": "Special Order from True Value",
+        "specialOrderText": "",
+        "trademark": "All product and company names are trademarks\u2122 or registered\u00ae trademarks of their respective holders. Use of them does not imply any affiliation with or endorsement by them.",
+        "checkAvailability": "Call Your Local Store For Availability",
+        "emptyCart": "Cart is empty. Browse the website and add the things you like!",
+        "cartDeliveryDisclaimer": "",
+        "forRental": "",
+        "promoQuantityHeader": "",
+        "specialOrderTextByLocation": "",
+        "deliveryConfirmationText": "",
+        "vendorInStockText": "",
+        "vendorOutOfStockText": "",
+        "catalogInStockText": "",
+        "vendorSpecialOrderText": "",
+        "outOfStockText": "",
+        "extraProductMessage": ""
+    },
+    "footer": {
+        "links": "",
+        "facebookPage": "",
+        "showSslLogo": "",
+        "instagramPage": "",
+        "locations": null
+    },
+    "products": {
+        "inventoryItemsMin": 4,
+        "itemsPerPage": 48,
+        "showVideos": true,
+        "showDescription": true,
+        "showSimilarProducts": true,
+        "showQtyInWidgets": false,
+        "sortOptions": "",
+        "defaultSorting": "relevancy",
+        "hideReg": false,
+        "filterShowOutOfStock": false,
+        "inStockProductRename": "",
+        "hideUpc": "",
+        "hideInStockCheckbox": "",
+        "disableOrdering": false,
+        "showThreeFiveDays": "",
+        "capitalizeTitle": "",
+        "regularPriceText": "",
+        "currencyPrefix": "",
+        "useOriginalTitle": "",
+        "hidePriceOutOfStock": "",
+        "disableSpecialOrdering": "",
+        "showTopBrandProducts": "",
+        "showSimilarProductsByProduct": "",
+        "showDepartmentDropdownInSearch": "",
+        "getQuoteSpecial": "",
+        "hideProductLocation": "",
+        "getQuoteEmail": "",
+        "hideProductUnit": "",
+        "hiddenPriceText": "",
+        "syncHandlePromos": "",
+        "showPartnerInventories": "",
+        "hideQuantity": ""
+    },
+    "departments": {
+        "defaultSorting": "relevancy",
+        "skipAutoFormat": "",
+        "multiLevel": "",
+        "sortOptions": "",
+        "hideHeadersInMenu": ""
+    },
+    "brands": {
+        "defaultSorting": "relevancy",
+        "showImages": "",
+        "sortAlphabetical": ""
+    },
+    "cart": {
+        "rewardMembers": false,
+        "hideAddress": false,
+        "specialOrderMessage": "Special order May Be Required",
+        "specialOrderDisclaimer": "Subject to Availability and seasonality from suppliers. If we cannot get it, you will be notified and refunded.",
+        "specialOrderBadge": "",
+        "specialOrderMessageTooltip": "You will receive shipping information over email within the next business day",
+        "empty": "Cart is empty. Browse the website and add the things you like!",
+        "submittedOrderImage": "",
+        "confirmationText": "",
+        "deliveryDisclaimer": "",
+        "taxJar": "",
+        "hideShipping": "",
+        "showSpecialOrderDays": "",
+        "enableDeliveryDate": "",
+        "promos": "",
+        "allowSpecialOrderVendors": [
+            1759
+        ],
+        "taxDisclaimer": "",
+        "additionalCountries": "",
+        "showCardProviders": "",
+        "taxExemptionCheck": "",
+        "discountEligibilityCheck": "",
+        "hideVendorInSpecialOrder": "",
+        "refundInfo": "",
+        "deliveryZipsAllowed": "",
+        "allowedZips": "",
+        "disclaimer": "",
+        "allowSavedCarts": "",
+        "hideTax": "",
+        "hideDeliveryZipcode": "",
+        "cartModal": ""
+    },
+    "admin": {
+        "showStats": true,
+        "showOrderLocationFilters": true,
+        "orders": "",
+        "hideSecondStep": "",
+        "RSCOptions": "",
+        "showContractors": "",
+        "orderTimeZone": ""
+    },
+    "testimonials": {
+        "1": "",
+        "2": ""
+    },
+    "liveChatCode": "",
+    "storeNumber": "",
+    "logoMaxWidth": "250px",
+    "logoMaxHeight": "250px",
+    "signup": {
+        "extraFields": ""
+    },
+    "contactUs": {
+        "hideEmail": false
+    },
+    "logoSize": "",
+    "navigationBackground": "",
+    "whiteHeader": "",
+    "lightNav": "",
+    "displayName": "Peter's True Value",
+    "domain": "peterstv",
+    "newOrderEmails": "alex@truevalue.net",
+    "contactEmail": "alex@truevalue.net",
+    "company": "truevalue",
+    "navigation": [
+        {
+            "name": "home"
+        },
+        {
+            "name": "departments"
+        },
+        {
+            "name": "brands"
+        },
+        {
+            "name": "About Us",
+            "align": "right"
+        }
+    ],
+    "demo": false,
+    "homepageBanner": "",
+    "search": {
+        "checkboxFilters": ""
+    },
+    "timezone": "",
+    "meta": {
+        "description": "We have some of the best selections of products at great prices! Our friendly website is here to assist you with all of your purchasing needs. Feel free to contact us if you have any questions!",
+        "loginDescription": "Get discounts & savings when you register for an account today!",
+        "mainImage": "",
+        "loginTitle": ""
+    },
+    "directory": "www-peterstv",
+    "overrideSubscribeImage": "",
+    "tax_rate": "",
+    "adminNavigation": "",
+    "showPhoneInNavigation": "",
+    "emailNavLink": "",
+    "onlyFeatured": "",
+    "navigationLayout": "",
+    "aboutUsLocations": "",
+    "customLayout": "",
+    "showAdvancedSetting": "",
+    "principles": "",
+    "registrationOptions": {
+        "companyInput": "",
+        "hideFromHeader": ""
+    },
+    "locationData": {
+        "Millhouse": "",
+        "Wildey": ""
+    },
+    "testKey": "",
+    "business": "",
+    "authData": "",
+    "aboutUsEmails": "",
+    "logoMaxheight": "",
+    "logoLink": "",
+    "showConsultationReport": "",
+    "dynamicMap": "",
+    "customCss": "",
+    "extraProductMessage": "",
+    "styles": {
+        "vendorInStockClasses": "",
+        "catalogInStockClasses": ""
+    },
+    "undefined": "",
+    "specialPricePositionBottom": "",
+    "aboutUsTitle": "",
+    "aboutUsTitleHidden": "",
+    "showLocationPhoneInNav": ""
+}

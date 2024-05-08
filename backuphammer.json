@@ -1,0 +1,103 @@
+{
+  "businessSlug": "QiMvv1ADquXagAyO",
+  "stripePublishable": "pk_test_SoQebsTMOLR2iExxLINSedwP",
+  "stripeLive": false,
+  "businessName": "Hammer & Wakin",
+  "favicon": "https://storage.googleapis.com/content.ezadtv.com/2020/05/19/5ec41c1abf8c8_favicon.ico",
+  "colors": {
+    "primary": "#303a8b",
+    "secondary": "#98caed",
+    "text": "#3a3b3d",
+    "background": "#F2F2F2",
+    "navigation": "primary"
+  },
+  "layout": "default",
+  "font": "Raleway",
+  "logo": "https://storage.googleapis.com/content.ezadtv.com/2020/05/19/5ec41baeadbcf_image3.png",
+  "logoMaxHeight": "100px",
+  "subscribeBannerImage": "url('http://api.ezadtv.com/storage/admin/subscription/yBXnQLsrgGQjkY7TrVTlrYxDpQ7LuhT9ARGMA83m.png')",
+  "buyingFromAlert": {
+    "background": "white",
+    "textColor": "text",
+    "visible": false
+  },
+  "homeAlert": {
+    "text": "blabla <a href='#'>link</a>",
+    "background": "primary",
+    "textColor": "white",
+    "visible": false
+  },
+  "text": {
+    "forRental": "In-Store Rental Equipment",
+    "inStore": "Curbside",
+    "checkAvailability": "Call Your Local Store For Availability",
+    "outOfStock": "Call to check availability",
+    "noRentalItems": "There are no rental items",
+    "emptyCart": "Cart is empty. Browse the website and add the things you like!",
+    "cartDeliveryDisclaimer": "Get stuff done around the house! We will bring it out for five bucks.<br>We are all in this together!",
+    "trademark": "All product and company names are trademarks™ or registered® trademarks of their respective holders. Use of them does not imply any affiliation with or endorsement by them."
+  },
+  "footer": {
+  },
+  "products": {
+    "filterShowOutOfStock": true,
+    "inventoryItemsMin": 0,
+    "itemsPerPage": 48,
+    "showVideos": true,
+    "showDescription": true,
+    "showSimilarProducts": true,
+    "showQtyInWidgets": true,
+    "sortOptions": [
+      {
+        "value": "relevancy",
+        "text": "Relevancy"
+      },
+      {
+        "value": "price-desc",
+        "text": "Price High to Low"
+      },
+      {
+        "value": "price-asc",
+        "text": "Price Low to High"
+      },
+      {
+        "value": "latest",
+        "text": "New Arrivals"
+      },
+      {
+        "value": "title-asc",
+        "text": "Alphabetical"
+      }
+    ],
+    "defaultSorting": "relevancy"
+  },
+  "departments": {
+    "defaultSorting": "relevancy"
+  },
+  "brands": {
+    "defaultSorting": "relevancy"
+  },
+  "cart": {
+    "rewardMembers": false,
+    "specialOrderMessage": "Special order May Be Required",
+    "specialOrderDisclaimer": "Subject to Availability and seasonality from suppliers. If we cannot get it, you will be notified and refunded.",
+    "specialOrderMessageTooltip": "You will receive shipping information over email within the next business day",
+    "empty": "Cart is empty. Browse the website and add the things you like!",
+    "deliveryDisclaimer": "",
+    "allowSpecialOrderVendors": [2020],
+    "taxJar" : true,
+    "taxDisclaimer": "*Tax is maxed out at $1,200"
+  },
+  "admin": {
+    "showStats": true,
+    "showOrderLocationFilters": true
+  },
+  "navigation": [
+    { "name": "home" },
+    { "name": "departments" },
+    { "name": "Brands"},
+    { "name": "About Us", "align": "right" }
+  ],
+  "timezone": "America/Anchorage",
+  "adminNavigation": true
+}

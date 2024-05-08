@@ -1,0 +1,165 @@
+{
+    "businessSlug": "HZP3238JP8WJS2XG",
+    "stripePublishable": "pk_test_SoQebsTMOLR2iExxLINSedwP",
+    "stripeLive": "",
+    "businessName": "Hill Hardware",
+    "favicon": "https:\/\/storage.googleapis.com\/content.ezadtv.com\/2020\/05\/19\/5ec41c1abf8c8_favicon.ico",
+    "colors": {
+        "primary": "#996633",
+        "secondary": "#cc6633",
+        "text": "#2f3540",
+        "background": "#F7F7F7",
+        "header": "#fff",
+        "headerLinkColor": "",
+        "headerText": "",
+        "navigation": "#fff"
+    },
+    "layout": "default",
+    "font": "Roboto",
+    "logo": "https:\/\/storage.googleapis.com\/content.ezadtv.com\/2020\/08\/19\/5f3daba032ed4_hillshardware.com1.gif",
+    "subscribeBannerImage": "url('https:\/\/storage.googleapis.com\/content.ezadtv.com\/2020\/06\/01\/5ed5530c847ce_Generic.jpg')",
+    "buyingFromAlert": {
+        "background": "",
+        "textColor": "",
+        "visible": ""
+    },
+    "homeAlert": {
+        "visible": true,
+        "text": "Welcome to the new Hill Hardware website! Order products for In-Store Pickup by adding items to your cart!",
+        "background": "primary",
+        "textColor": "white",
+        "fontSize": 18,
+        "fontWeight": "bold"
+    },
+    "text": {
+        "featuredProductText": "Popular Products ",
+        "inStore": "In-Store",
+        "specialOrderWarning": "Free Shipping to Store Available",
+        "outOfStock": "Order by Wednesday at 5PM to recieve by Friday",
+        "noRentalItems": "There are no rental items",
+        "specialOrderTitle": "Special Order from Do it Best",
+        "specialOrderText": "",
+        "trademark": "All product and company names are trademarks\u2122 or registered\u00ae trademarks of their respective holders. Use of them does not imply any affiliation with or endorsement by them.",
+        "checkAvailability": "Call Your Local Store For Availability",
+        "emptyCart": "Cart is empty. Browse the website and add the things you like!",
+        "cartDeliveryDisclaimer": "",
+        "forRental": "",
+        "promoQuantityHeader": ""
+    },
+    "footer": {
+        "links": ""
+    },
+    "products": {
+        "inventoryItemsMin": 4,
+        "itemsPerPage": 48,
+        "showVideos": true,
+        "showDescription": true,
+        "showSimilarProducts": true,
+        "showQtyInWidgets": true,
+        "sortOptions": "",
+        "defaultSorting": "relevancy",
+        "hideReg": false,
+        "filterShowOutOfStock": true,
+        "inStockProductRename": "",
+        "hideUpc": "",
+        "hideInStockCheckbox": false,
+        "disableOrdering": false,
+        "showThreeFiveDays": "",
+        "capitalizeTitle": "",
+        "regularPriceText": "",
+        "currencyPrefix": ""
+    },
+    "departments": {
+        "defaultSorting": "relevancy",
+        "skipAutoFormat": ""
+    },
+    "brands": {
+        "defaultSorting": "relevancy"
+    },
+    "cart": {
+        "rewardMembers": false,
+        "hideAddress": false,
+        "specialOrderMessage": "Special order May Be Required",
+        "specialOrderDisclaimer": "Subject to Availability and seasonality from suppliers. If we cannot get it, you will be notified and refunded.",
+        "specialOrderBadge": "",
+        "specialOrderMessageTooltip": "You will receive shipping information over email within the next business day",
+        "empty": "Cart is empty. Browse the website and add the things you like!",
+        "submittedOrderImage": "",
+        "confirmationText": "",
+        "deliveryDisclaimer": "",
+        "taxJar": "",
+        "hideShipping": "",
+        "showSpecialOrderDays": "",
+        "enableDeliveryDate": "",
+        "promos": "",
+        "allowSpecialOrderVendors": [
+            2020
+        ],
+        "taxDisclaimer": "",
+        "additionalCountries": ""
+    },
+    "admin": {
+        "showStats": true,
+        "showOrderLocationFilters": true,
+        "orders": "",
+        "hideSecondStep": "",
+        "RSCOptions": "",
+        "showContractors": ""
+    },
+    "testimonials": {
+        "1": "",
+        "2": ""
+    },
+    "liveChatCode": "",
+    "storeNumber": "",
+    "logoMaxWidth": "",
+    "logoMaxHeight": "",
+    "signup": {
+        "extraFields": ""
+    },
+    "contactUs": {
+        "hideEmail": false
+    },
+    "logoSize": "",
+    "navigationBackground": "",
+    "whiteHeader": "",
+    "lightNav": "",
+    "displayName": "Hill Hardware",
+    "domain": "hillhardware",
+    "newOrderEmails": "shelliehi@gmail.com",
+    "contactEmail": "shelliehi@gmail.com",
+    "company": "doitbest",
+    "navigation": [
+        {
+            "name": "home"
+        },
+        {
+            "name": "departments"
+        },
+        {
+            "name": "brands"
+        },
+        {
+            "name": "About Us",
+            "align": "right"
+        }
+    ],
+    "demo": true,
+    "homepageBanner": "",
+    "search": {
+        "checkboxFilters": ""
+    },
+    "timezone": "",
+    "meta": {
+        "description": "We have some of the best selections of products at great prices! Our friendly website is here to assist you with all of your purchasing needs. Feel free to contact us if you have any questions!",
+        "loginDescription": "Get discounts & savings when you register for an account today!",
+        "mainImage": "",
+        "loginTitle": ""
+    },
+    "directory": "www-hillhardware",
+    "overrideSubscribeImage": "",
+    "tax_rate": "",
+    "adminNavigation": "",
+    "showPhoneInNavigation": "",
+    "emailNavLink": ""
+}

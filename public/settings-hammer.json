@@ -1,0 +1,177 @@
+{
+    "businessSlug": "QiMvv1ADquXagAyO",
+    "stripePublishable": "pk_test_SoQebsTMOLR2iExxLINSedwP",
+    "stripeLive": "",
+    "businessName": "Hammer & Wikan",
+    "favicon": "https://storage.googleapis.com/content.ezadtv.com/2021/02/19/602feec36dd8d_hammer-favico.png",
+    "colors": {
+        "primary": "#0A436A",
+        "secondary": "#9A282C",
+        "text": "#3a3b3d",
+        "background": "#fff",
+        "navigation": "primary",
+        "header": "#fff",
+        "headerLinkColor": "",
+        "headerText": "",
+        "priceColor": "#9A282C",
+        "promoPriceColor": "#9A282C",
+        "footerBg": "#00ff00",
+        "footerColor": "#0000ff",
+        "footerLinkColor": "#ff0000"
+    },
+    "customCss": "hammer.css",
+    "layout": "default",
+    "font": "Montserrat",
+    "logo": "https://storage.googleapis.com/content.ezadtv.com/2021/02/18/602eb0498676b_handw-logo.png",
+    "logoMaxHeight": "200px",
+    "logoMaxWidth": "300px",
+    "subscribeBannerImage": "url('http:\/\/api.ezadtv.com\/storage\/admin\/subscription\/yBXnQLsrgGQjkY7TrVTlrYxDpQ7LuhT9ARGMA83m.png')",
+    "buyingFromAlert": {
+        "background": "white",
+        "textColor": "text",
+        "visible": ""
+    },
+    "homeAlert": {
+        "text": "<div class=\"container d-flex align-items-center justify-content-between py-2\"><div class=\"d-flex align-items-center\"><a class=\"mr-3\" href=\"https://www.facebook.com/Hammer-and-Wikan-Hardware-301925553233456/\" target=\"_blank\"><img style=\"max-height: 26px;\" src=\"https://storage.googleapis.com/content.ezadtv.com/2021/02/18/602eb456219df_CopyofHW-Website-Icons-FB.svg\" /></a><a class=\"mr-3\" href=\"https://www.google.com/maps/place/Hammer+%26+Wikan+Hardware/@56.8131261,-132.9571849,15z/data=!4m5!3m4!1s0x0:0x4bd9e2213edf24eb!8m2!3d56.8131261!4d-132.9571849\" target=\"_blank\"><img style=\"max-height: 26px;\" src=\"https://storage.googleapis.com/content.ezadtv.com/2021/02/18/602eb45f0656c_CopyofHW-Website-Icons-map.svg\" /></a><a href=\"tel:+1-907-722-4811\"><img style=\"max-height: 32px; margin-top: -4px; margin-right: 12px;\" src=\"https://storage.googleapis.com/content.ezadtv.com/2021/02/18/602eb44120891_CopyofHW-Website-Icon-phone.svg\" />907-722-4811</a></div><div>Open Monday &ndash; Sunday 8:00 AM &ndash; 5:00 PM</div></div>",
+        "background": "primary",
+        "textColor": "white",
+        "visible": true,
+        "fontSize": 16,
+        "fontWeight": "500"
+    },
+    "text": {
+        "forRental": "In-Store Rental Equipment",
+        "inStore": "Curbside",
+        "checkAvailability": "Call Your Local Store For Availability",
+        "outOfStock": "Call to check availability",
+        "noRentalItems": "There are no rental items",
+        "emptyCart": "Cart is empty. Browse the website and add the things you like!",
+        "cartDeliveryDisclaimer": "Get stuff done around the house! We will bring it out for five bucks.<br>We are all in this together!",
+        "trademark": "All product and company names are trademarks\u2122 or registered\u00ae trademarks of their respective holders. Use of them does not imply any affiliation with or endorsement by them.",
+        "featuredProductText": "",
+        "specialOrderWarning": "",
+        "specialOrderTitle": "",
+        "specialOrderText": "",
+        "promoQuantityHeader": ""
+    },
+    "footer": {
+        "links": ""
+    },
+    "products": {
+        "filterShowOutOfStock": true,
+        "inventoryItemsMin": 4,
+        "itemsPerPage": 48,
+        "showVideos": 1,
+        "showDescription": 1,
+        "showSimilarProducts": 1,
+        "showQtyInWidgets": true,
+        "sortOptions": "[{\"value\":\"relevancy\",\"text\":\"Relevancy\"},{\"value\":\"price-desc\",\"text\":\"Price High to Low\"},{\"value\":\"price-asc\",\"text\":\"Price Low to High\"},{\"value\":\"latest\",\"text\":\"New Arrivals\"},{\"value\":\"title-asc\",\"text\":\"Alphabetical\"}]",
+        "defaultSorting": "relevancy",
+        "hideReg": "",
+        "inStockProductRename": "",
+        "hideUpc": "",
+        "hideInStockCheckbox": "",
+        "disableOrdering": false,
+        "showThreeFiveDays": "",
+        "capitalizeTitle": "",
+        "regularPriceText": "",
+        "currencyPrefix": "",
+        "useOriginalTitle": ""
+    },
+    "departments": {
+        "defaultSorting": "relevancy",
+        "skipAutoFormat": ""
+    },
+    "brands": {
+        "defaultSorting": "relevancy"
+    },
+    "cart": {
+        "rewardMembers": "",
+        "specialOrderMessage": "Special order May Be Required",
+        "specialOrderDisclaimer": "Subject to Availability and seasonality from suppliers. If we cannot get it, you will be notified and refunded.",
+        "specialOrderMessageTooltip": "You will receive shipping information over email within the next business day",
+        "empty": "Cart is empty. Browse the website and add the things you like!",
+        "deliveryDisclaimer": "",
+        "allowSpecialOrderVendors": [
+            2020
+        ],
+        "taxJar": 1,
+        "taxDisclaimer": "*Tax is maxed out at $1,200",
+        "hideAddress": "",
+        "specialOrderBadge": "",
+        "submittedOrderImage": "",
+        "confirmationText": "",
+        "hideShipping": "",
+        "showSpecialOrderDays": "",
+        "enableDeliveryDate": "",
+        "promos": "",
+        "additionalCountries": "",
+        "taxExemptionCheck": "",
+        "discountEligibilityCheck": "",
+        "showCardProviders": ""
+    },
+    "admin": {
+        "showStats": 1,
+        "showOrderLocationFilters": 1,
+        "orders": "",
+        "hideSecondStep": "",
+        "RSCOptions": "",
+        "showContractors": ""
+    },
+    "navigation": [
+        {
+            "name": "home"
+        },
+        {
+            "name": "departments"
+        },
+        {
+            "name": "brands"
+        },
+        {
+            "name": "About Us",
+            "align": "right"
+        }
+    ],
+    "timezone": "America\/Anchorage",
+    "adminNavigation": true,
+    "testimonials": {
+        "1": "",
+        "2": ""
+    },
+    "liveChatCode": "",
+    "storeNumber": "",
+    "signup": {
+        "extraFields": ""
+    },
+    "contactUs": {
+        "hideEmail": ""
+    },
+    "logoSize": "",
+    "navigationBackground": "",
+    "whiteHeader": "",
+    "lightNav": "",
+    "displayName": "",
+    "domain": "hammer",
+    "newOrderEmails": "",
+    "contactEmail": "",
+    "company": "",
+    "demo": "",
+    "homepageBanner": "",
+    "search": {
+        "checkboxFilters": ""
+    },
+    "meta": {
+        "description": "",
+        "loginDescription": "",
+        "mainImage": "",
+        "loginTitle": ""
+    },
+    "directory": "",
+    "overrideSubscribeImage": "",
+    "tax_rate": 10,
+    "showPhoneInNavigation": "",
+    "emailNavLink": "",
+    "onlyFeatured": "",
+    "navigationLayout": ""
+}

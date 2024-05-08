@@ -1,0 +1,88 @@
+{
+  "businessSlug": "G6Z9c3218qtmADfj",
+  "businessName": "Obermeier Hardware",
+  "stripePublishable": "pk_live_TL6sTBk3kqmpiJQRqbn82Otc",
+  "stripeLive": true,
+  "favicon": "https://storage.googleapis.com/content.ezadtv.com/2020/05/20/5ec569ea14225_favicon-32x32.png",
+  "colors": {
+    "primary": "#a02230",
+    "secondary": "#2f3540",
+    "text": "#2f3540",
+    "background": "#F2F2F2",
+    "navigation": "#fff"
+  },
+  "layout": "default",
+  "font": "Roboto",
+  "logo": "https://storage.googleapis.com/content.ezadtv.com/2020/05/20/5ec56ad2ea093_ObermeierSolidMaroon-01.png",
+  "subscribeBannerImage": "url(https://storage.googleapis.com/content.ezadtv.com/2020/04/08/5e8e37747ffa9_ObermeierHardware.jpg)",
+  "buyingFromAlert": {
+    "background": "white",
+    "textColor": "text",
+    "visible": false
+  },
+  "homeAlert": {
+    "text": "blabla",
+    "background": "secondary",
+    "textColor": "white",
+    "visible": false
+  },
+  "text": {
+    "forRental": "In-Store Rental Equipment",
+    "inStore": "Curbside",
+    "checkAvailability": "Call Your Local Store For Availability",
+    "outOfStock": "This product is out of stock",
+    "noRentalItems": "There are no rental items",
+    "emptyCart": "Cart is empty. Browse the website and add the things you like!",
+    "cartDeliveryDisclaimer": "Get stuff done around the house! We will bring it out for five bucks.<br>We are all in this together!",
+    "trademark": "All product and company names are trademarks™ or registered® trademarks of their respective holders. Use of them does not imply any affiliation with or endorsement by them."
+  },
+  "footer": {
+    "links": [
+      {
+        "name": "",
+        "link": ""
+      }
+    ]
+  },
+  "products": {
+    "inventoryItemsMin": 0,
+    "itemsPerPage": 48,
+    "showVideos": true,
+    "showDescription": true,
+    "showSimilarProducts": true,
+    "showQtyInWidgets": true,
+    "sortOptions": [
+      {"value": "relevancy", "text": "Relevancy"},
+      {"value": "price-desc", "text": "Price High to Low"},
+      {"value": "price-asc", "text": "Price Low to High"},
+      {"value": "latest", "text": "New Arrivals"},
+      {"value": "title-asc", "text": "Alphabetical"}
+    ],
+    "defaultSorting": "relevancy"
+  },
+  "departments": {
+    "defaultSorting": "relevancy"
+  },
+  "brands": {
+    "defaultSorting": "relevancy"
+  },
+  "cart": {
+    "rewardMembers": false
+  },
+  "admin": {
+    "showStats": true,
+    "showOrderLocationFilters": true
+  },
+  "navigation": [
+    { "name": "home" },
+    { "name": "departments" },
+    { "name": "brands"},
+    {
+      "name": "Information",
+      "custom": "obermeier",
+      "target" : "information"
+    },
+    { "name": "About Us", "align": "right" }
+
+  ]
+}

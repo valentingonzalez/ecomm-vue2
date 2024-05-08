@@ -1,0 +1,104 @@
+{
+  "businessSlug": "a54t39jct4bq8bn4",
+  "stripePublishable": "pk_test_SoQebsTMOLR2iExxLINSedwP",
+  "businessName": "Johnsons Home & Garden",
+  "favicon": "https://storage.googleapis.com/content.ezadtv.com/2020/05/01/5eac7e7ccf9d2_favicon-32x32.png",
+  "colors": {
+    "primary": "#00678f",
+    "secondary": "#00ae67",
+    "text": "#2f3540",
+    "background": "#F7F7F7",
+    "header": "#fff",
+    "navigation": "#fff"
+  },
+  "layout": "default",
+  "font": "Roboto",
+  "logo": "https://storage.googleapis.com/content.ezadtv.com/2020/05/14/5ebd736984e6f_logo2.jpg",
+  "subscribeBannerImage": "url(https://storage.googleapis.com/content.ezadtv.com/2020/04/21/5e9f6044449b9_Agway.jpg)",
+  "buyingFromAlert": {
+    "background": "primary",
+    "textColor": "white",
+    "visible": false
+  },
+  "homeAlert": {
+    "text": "You are shopping for Curbside Pickup. To place a Delivery order <a href='https://agwaycapecod.com/delivery-order' target='_blank'>Click Here</a>",
+    "background": "primary",
+    "textColor": "white",
+    "visible": true,
+    "fontSize": 17,
+    "fontWeight" : "bolder"
+  },
+  "text": {
+    "forRental": "In-Store Rental Equipment",
+    "inStore": "Curbside",
+    "specialOrderWarning": "Special Order From Vendor",
+    "outOfStock": "",
+    "noRentalItems": "There are no rental items",
+    "specialOrderTitle": "Special Order May Be Required",
+    "specialOrderText": "Subject to availability and seasonality from suppliers. If we cannot get it, you will be notified and refunded.",
+    "trademark": "All product and company names are trademarks™ or registered® trademarks of their respective holders. Use of them does not imply any affiliation with or endorsement by them."
+  },
+  "footer": {
+    "links": [
+      {
+        "name": "Return Policy",
+        "link": "https://agwaycapecod.com/return-policy/"
+      }
+    ]
+  },
+  "products": {
+    "inventoryItemsMin": 0,
+    "itemsPerPage": 48,
+    "showVideos": true,
+    "showDescription": true,
+    "showSimilarProducts": true,
+    "showQtyInWidgets": true,
+    "sortOptions": [
+      {"value": "relevancy", "text": "Relevancy"},
+      {"value": "price-desc", "text": "Price High to Low"},
+      {"value": "price-asc", "text": "Price Low to High"},
+      {"value": "latest", "text": "New Arrivals"},
+      {"value": "title-asc", "text": "Alphabetical"}
+    ],
+    "defaultSorting": "relevancy"
+  },
+  "departments": {
+    "defaultSorting": "relevancy"
+  },
+  "brands": {
+    "defaultSorting": "relevancy"
+  },
+  "cart": {
+    "rewardMembers": false,
+    "specialOrderMessage": "Special order May Be Required",
+    "specialOrderDisclaimer": "Subject to Availability and seasonality from suppliers. If we cannot get it, you will be notified and refunded.",
+    "specialOrderMessageTooltip": "You will receive shipping information over email within the next business day",
+    "empty": "Cart is empty. Browse the website and add the things you like!",
+    "deliveryDisclaimer": ""
+  },
+  "admin": {
+    "showStats": true,
+    "showOrderLocationFilters": true
+  },
+  "navigation": [
+    { "name": "home" },
+    { "name": "departments" },
+    {
+      "name": "Specials",
+      "custom": true,
+      "dropdown": {
+        "config": {
+          "search": false,
+          "width": 400
+        },
+        "items": [
+          {"name": "Current Flyer", "target": "https://agwaycapecod.com/specials/"},
+          {"name": "Rooster Rewards", "target": "https://agwaycapecod.com/rewards/"},
+          {"name": "Frequent Buyer Clubs", "target": "https://agwaycapecod.com/frequent-buyer-clubs/"}
+        ]
+      }
+    },
+    { "name": "Gift Cards", "target": "https://agwaycapecod.com/gift-cards/" },
+    { "name": "About Us", "align": "right" }
+  ]
+}

@@ -1,0 +1,23 @@
+[
+    { "page": "", "link": "https://storage.googleapis.com/content.ezadtv.com/2020/10/22/5f91209f45f69_EZ-Commerce_Onboarding_Video.mov", "name": "Watch the Onboarding Introductory Video", "cover": "/images/cover-getting-started.jpg"},
+    { "page": "", "link": "https://storage.googleapis.com/content.ezadtv.com/2024/01/23/65afe5ff6f5d0_Basics_of_Ordering.mp4", "name": "Basics of Ordering", "cover": "/images/cover-basics-of-ordering.jpg"},
+    { "page": "", "link": "https://storage.googleapis.com/content.ezadtv.com/2020/09/04/5f5298ce78fd0_ecommerce_tutorial_website_settings_overview.mov", "name": "Website Settings", "cover": "/images/cover-website-settings-overview.jpg"},
+    { "page": "", "link": "https://storage.googleapis.com/content.ezadtv.com/2024/01/09/659d9d9b922cb_Stats_Analytics.mov", "name": "Stats & Analytics Page", "cover": "/images/cover-stats-tutorial.jpg"},
+    { "page": "admin-settings-department-mapping", "link": "https://storage.googleapis.com/content.ezadtv.com/2024/03/06/65e8be93202f7_Departments_Mapping.m4v", "name": "How To Map Departments", "cover": "/images/cover-department-mapping.jpg"},
+    { "page": "promo-codes", "link": "https://storage.googleapis.com/content.ezadtv.com/2023/12/28/658dc181f36d3_Promo_Codes.mov", "name": "Creating Promo Codes", "cover": "/images/cover-promo-codes.jpg"},
+    { "page": "", "link": "https://storage.googleapis.com/content.ezadtv.com/2020/08/28/5f4974c578696_ecommerce_tutorial_set_up_dns_on_domain.mov", "name": "How To Set Up DNS For URL Routing", "cover": "/images/cover-how-to-set-up-dns.jpg"},
+    { "page": "product-editor", "link": "https://storage.googleapis.com/content.ezadtv.com/2024/03/06/65e8c14d98b88_Products_Editor.m4v", "name": "Editing Products", "cover": "/images/cover-product-editor.jpg"},
+    { "page": "admin-settings-widgets", "link": "https://storage.googleapis.com/content.ezadtv.com/2024/03/06/65e8c56a0bac7_Homepage_Editor.m4v", "name": "Home Page Editor", "cover": "/images/cover-home-page-editor.jpg"},
+    { "page": "admin-settings-featured", "link": "https://storage.googleapis.com/content.ezadtv.com/2020/09/04/5f529330cd321_ecommerce_tutorial_featured_products.mov", "name": "Featured Products", "cover": "/images/cover-featured-products.jpg"},
+    { "page": "", "link": "https://storage.googleapis.com/content.ezadtv.com/2023/12/28/658dba5c19019_carousel_ads.mov", "name": "Carousel Ads", "cover": "/images/cover-carousel-ads.jpg"},
+    { "page": "pages", "link": "https://storage.googleapis.com/content.ezadtv.com/2024/01/23/65afe6b8630b5_Custom_Pages.mov", "name": "Custom Pages", "cover": "/images/cover-custom-pages.jpg"},
+    { "page": "admin-settings-search-synonyms", "link": "https://storage.googleapis.com/content.ezadtv.com/2024/03/06/65e8bf0954985_Search_Synonyms.m4v", "name": "Search Synonyms", "cover": "/images/cover-search-synonyms.jpg"},
+    { "page": "admin-brand-integrator-generate", "link": "https://storage.googleapis.com/content.ezadtv.com/2023/12/28/658dbf42730eb_Product_Brand_Integrator.mov", "name": "Brand Product Integrator", "cover": "/images/cover-brands-integrator-new.png"},
+    { "page": "", "link": "https://storage.googleapis.com/content.ezadtv.com/2023/12/28/658dbeba94edc_NEW_RECURRING_ORDERS.mp4", "name": "Recurring Orders", "cover": "/images/cover-recurring-orders-new.png"},
+    { "page": "admin-settings-product-suggesters", "link": "https://storage.googleapis.com/content.ezadtv.com/2023/12/28/658dc0c445d13_Products_Suggester.mov", "name": "Products Suggester", "cover": "/images/cover-product-suggester-new.png"},
+    { "page": "admin-settings-transactional-emails", "link": "https://storage.googleapis.com/content.ezadtv.com/2024/01/09/659d9cc5cf510_Transactional_Emails.mov", "name": "Transactional Emails", "cover": "/images/cover-transactional-emails.jpg"},
+    { "page": "header-and-footer", "link": "https://storage.googleapis.com/content.ezadtv.com/2024/03/12/65f0a017b2967_Header_Footer.m4v", "name": "Header and Footer", "cover": "/images/cover-header-footer.png"},
+    { "page": "", "link": "https://storage.googleapis.com/content.ezadtv.com/2024/03/06/65e8bb74765e4_Rentals.m4v", "name": "Rentals", "cover": "/images/cover-rentals.png"},
+    { "page": "dynamic-forms", "link": "https://storage.googleapis.com/content.ezadtv.com/2024/04/01/660ae0d5a8f51_User_Inputs_Feature.m4v", "name": "User Inputs", "cover": "/images/cover-user-inputs.png"},
+    { "page": "top-banner", "link": "https://storage.googleapis.com/content.ezadtv.com/2024/04/04/660edb51bc1c0_Top_Banner.m4v", "name": "Top Bar", "cover": "/images/cover-top-banner.png"}
+]

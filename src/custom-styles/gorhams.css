@@ -1,0 +1,7 @@
+#mainFooter {
+  background: #005C97 !important;
+  color: var(--white) !important;
+}
+#mainFooter a {
+  color: var(--white) !important;
+}

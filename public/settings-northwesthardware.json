@@ -1,0 +1,70 @@
+{
+  "businessSlug": "wdgYHYLUeqbsc1nS",
+  "storeNumber": "4147",
+  "stripePublishable": "pk_test_SoQebsTMOLR2iExxLINSedwP",
+  "businessName": "Billings Hardware",
+  "colors": {
+    "primary": "#25a3da",
+    "secondary": "#e8d8af",
+    "text": "#2e3440",
+    "background": "#F2F2F2",
+    "header": "secondary",
+    "headerLinkColor": "#2e3440",
+    "headerText": "#2e3440",
+    "navigation": "secondary"
+  },
+  "layout": "default",
+  "font": "Roboto",
+  "logo": "https://storage.googleapis.com/content.ezadtv.com/2020/04/28/5ea89e07a2044_ScreenShot2020-04-28at2.20.02PM.png",
+  "subscribeBannerImage": "url()",
+  "buyingFromAlert": {
+    "background": "primary",
+    "textColor": "white",
+    "visible": false
+  },
+  "homeAlert": {
+    "text": "Shopping for Curbside Pickup. To place a Delivery order, <a href='https://agwaycapecod.com/delivery-order' target='_blank'>Click Here</a>",
+    "background": "primary",
+    "textColor": "white",
+    "visible": false
+  },
+  "text": {
+    "forRental": "In-Store Rental Equipment",
+    "inStore": "Curbside",
+    "checkAvailability": "Call Your Local Store For Availability",
+    "outOfStock": "This product is out of stock",
+    "noRentalItems": "There are no rental items",
+    "emptyCart": "Cart is empty. Browse the website and add the things you like!",
+    "cartDeliveryDisclaimer": "",
+    "trademark": "All product and company names are trademarks™ or registered® trademarks of their respective holders. Use of them does not imply any affiliation with or endorsement by them."
+  },
+  "footer": {
+    "links": []
+  },
+  "products": {
+    "inventoryItemsMin": 4,
+    "itemsPerPage": 48,
+    "showVideos": true,
+    "showDescription": true,
+    "showSimilarProducts": true
+  },
+  "departments": {
+    "defaultSorting": "relevancy"
+  },
+  "brands": {
+    "defaultSorting": "relevancy"
+  },
+  "cart": {
+    "rewardMembers": false
+  },
+  "admin": {
+    "showStats": true,
+    "showOrderLocationFilters": false
+  },
+  "navigation": [
+    { "name": "home" },
+    { "name": "departments" },
+    { "name": "Brands", "target": "brands" },
+    { "name": "About Us", "align": "right" }
+  ]
+}

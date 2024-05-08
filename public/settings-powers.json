@@ -1,0 +1,97 @@
+{
+  "businessSlug": "wKXLqJDjZFcKFK8D",
+  "stripePublishable": "pk_test_SoQebsTMOLR2iExxLINSedwP",
+  "stripeLive": false,
+  "businessName": "Powers Hardware",
+  "favicon": "https://storage.googleapis.com/content.ezadtv.com/2020/05/13/5ebc3a7d6d3d4_doitbest-favicon2x.png",
+  "colors": {
+    "primary": "#ed2a25",
+    "secondary": "#383838",
+    "text": "#3a3b3d",
+    "background": "#F2F2F2",
+    "navigation": "#fff"
+  },
+  "layout": "catalog",
+  "font": "Raleway",
+  "logo": "https://storage.googleapis.com/content.ezadtv.com/2020/05/13/5ebc3134753cc_HeaderLogo.png",
+  "subscribeBannerImage": "url('http://api.ezadtv.com/storage/admin/subscription/yBXnQLsrgGQjkY7TrVTlrYxDpQ7LuhT9ARGMA83m.png')",
+  "buyingFromAlert": {
+    "background": "white",
+    "textColor": "text",
+    "visible": false
+  },
+  "homeAlert": {
+    "text": "blabla <a href='#'>link</a>",
+    "background": "primary",
+    "textColor": "white",
+    "visible": false
+  },
+  "text": {
+    "forRental": "In-Store Rental Equipment",
+    "inStore": "Curbside",
+    "checkAvailability": "Call Your Local Store For Availability",
+    "outOfStock": "This product is out of stock",
+    "noRentalItems": "There are no rental items",
+    "emptyCart": "Cart is empty. Browse the website and add the things you like!",
+    "cartDeliveryDisclaimer": "Get stuff done around the house! We will bring it out for five bucks.<br>We are all in this together!",
+    "trademark": "All product and company names are trademarks™ or registered® trademarks of their respective holders. Use of them does not imply any affiliation with or endorsement by them."
+  },
+  "footer": {
+  },
+  "products": {
+    "filterShowOutOfStock": false,
+    "inventoryItemsMin": 0,
+    "itemsPerPage": 48,
+    "showVideos": true,
+    "showDescription": true,
+    "showSimilarProducts": true,
+    "showQtyInWidgets": true,
+    "sortOptions": [
+      {
+        "value": "relevancy",
+        "text": "Relevancy"
+      },
+      {
+        "value": "price-desc",
+        "text": "Price High to Low"
+      },
+      {
+        "value": "price-asc",
+        "text": "Price Low to High"
+      },
+      {
+        "value": "latest",
+        "text": "New Arrivals"
+      },
+      {
+        "value": "title-asc",
+        "text": "Alphabetical"
+      }
+    ],
+    "defaultSorting": "relevancy"
+  },
+  "departments": {
+    "defaultSorting": "relevancy"
+  },
+  "brands": {
+    "defaultSorting": "relevancy"
+  },
+  "cart": {
+    "rewardMembers": false,
+    "specialOrderMessage": "Special order May Be Required",
+    "specialOrderDisclaimer": "Subject to Availability and seasonality from suppliers. If we cannot get it, you will be notified and refunded.",
+    "specialOrderMessageTooltip": "You will receive shipping information over email within the next business day",
+    "empty": "Cart is empty. Browse the website and add the things you like!",
+    "deliveryDisclaimer": "",
+    "allowSpecialOrderVendors": [2020]
+  },
+  "admin": {
+    "showStats": true,
+    "showOrderLocationFilters": true
+  },
+  "navigation": [
+    { "name": "departments" },
+    {"name": "Store Cam", "target" :  "https://beaverisland.click2stream.com/"}
+  ],
+  "timezone": "America/New_York"
+}

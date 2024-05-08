@@ -1,0 +1,90 @@
+{
+  "businessSlug": "pu5TNttqQSuwJsnZ",
+  "stripePublishable": "pk_test_SoQebsTMOLR2iExxLINSedwP",
+  "businessName": "Lowville Farm",
+  "favicon": "https://storage.googleapis.com/content.ezadtv.com/2020/05/04/5eb052231f68a_favicon-32x322.png",
+  "colors": {
+    "primary": "#e40416",
+    "secondary": "#1304e4",
+    "text": "#2f3540",
+    "background": "#F7F7F7",
+    "header": "#fff",
+    "navigation": "#fff"
+  },
+  "layout": "default",
+  "font": "Roboto",
+  "logo": "https://storage.googleapis.com/content.ezadtv.com/2020/05/04/5eb0554903c0e_image1.png",
+  "subscribeBannerImage": "url(https://storage.googleapis.com/content.ezadtv.com/2020/05/04/5eb053102032e_Lowville.jpg)",
+  "buyingFromAlert": {
+    "background": "primary",
+    "textColor": "white",
+    "visible": false
+  },
+  "homeAlert": {
+    "text": "You are shopping for Curbside Pickup. To place a Delivery order <a href='https://agwaycapecod.com/delivery-order' target='_blank'>Click Here</a>",
+    "background": "primary",
+    "textColor": "white",
+    "visible": false,
+    "fontSize": 17,
+    "fontWeight" : "bolder"
+  },
+  "text": {
+    "forRental": "In-Store Rental Equipment",
+    "inStore": "Curbside",
+    "specialOrderWarning": "Special Order From Vendor",
+    "outOfStock": "",
+    "noRentalItems": "There are no rental items",
+    "specialOrderTitle": "Special Order May Be Required",
+    "specialOrderText": "Subject to availability and seasonality from suppliers. If we cannot get it, you will be notified and refunded.",
+    "trademark": "All product and company names are trademarks™ or registered® trademarks of their respective holders. Use of them does not imply any affiliation with or endorsement by them."
+  },
+  "footer": {
+    "links": [
+      {
+        "name": "Return Policy",
+        "link": ""
+      }
+    ]
+  },
+  "products": {
+    "inventoryItemsMin": 0,
+    "itemsPerPage": 48,
+    "showVideos": true,
+    "showDescription": true,
+    "showSimilarProducts": true,
+    "showQtyInWidgets": true,
+    "sortOptions": [
+      {"value": "relevancy", "text": "Relevancy"},
+      {"value": "price-desc", "text": "Price High to Low"},
+      {"value": "price-asc", "text": "Price Low to High"},
+      {"value": "latest", "text": "New Arrivals"},
+      {"value": "title-asc", "text": "Alphabetical"}
+    ],
+    "defaultSorting": "relevancy"
+  },
+  "departments": {
+    "defaultSorting": "relevancy"
+  },
+  "brands": {
+    "defaultSorting": "relevancy"
+  },
+  "cart": {
+    "rewardMembers": false,
+    "hideAddress" : true,
+    "specialOrderMessage": "Special order May Be Required",
+    "specialOrderDisclaimer": "Subject to Availability and seasonality from suppliers. If we cannot get it, you will be notified and refunded.",
+    "specialOrderMessageTooltip": "You will receive shipping information over email within the next business day",
+    "empty": "Cart is empty. Browse the website and add the things you like!",
+    "deliveryDisclaimer": ""
+  },
+  "admin": {
+    "showStats": true,
+    "showOrderLocationFilters": true
+  },
+  "navigation": [
+    { "name": "home" },
+    { "name": "departments" },
+    { "name": "brands"},
+    { "name": "About Us", "align": "right" }
+  ]
+}

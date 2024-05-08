@@ -1,0 +1,42 @@
+RewriteEngine On
+RewriteBase /
+RewriteCond %{HTTPS} off
+RewriteCond %{HTTP_HOST} ^hillsflatlumber\.ezadtv\.com$
+RewriteRule ^(.*)$ https://hillsflatlumber.ezadtv.com%{REQUEST_URI} [L,R=301]
+
+DirectoryIndex index.php index.html
+
+# if url is index.php don't do anything more
+RewriteRule ^index\.php$ - [L]
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /index.php [L]
+
+RewriteCond %{HTTPS} off
+RewriteCond %{HTTP_HOST} ^gerretsen\.ezad\.io$
+RewriteRule ^(.*)$ https://gerretsen.ezad.io%{REQUEST_URI} [L,R=301]
+
+RewriteCond %{HTTPS} off
+RewriteCond %{HTTP_HOST} ^airsupply\.ezad\.io$
+RewriteRule ^(.*)$ https://airsupply.ezad.io%{REQUEST_URI} [L,R=301]
+
+RewriteCond %{HTTPS} off
+RewriteCond %{HTTP_HOST} ^hemlock\.ezad\.io$
+RewriteRule ^(.*)$ https://hemlock.ezad.io%{REQUEST_URI} [L,R=301]
+
+RewriteCond %{HTTPS} off
+RewriteCond %{HTTP_HOST} ^(www\.)?shop-hemlock\.com$
+RewriteRule ^(.*)$ https://shop-hemlock.com%{REQUEST_URI} [L,R=301]
+
+RewriteCond %{HTTPS} off
+RewriteCond %{HTTP_HOST} ^shop\.agwaycapecod\.com$
+RewriteRule ^(.*)$ https://shop.agwaycapecod.com%{REQUEST_URI} [L,R=301]
+
+<FilesMatch "\.html$">
+    FileETag None
+    Header unset ETag
+    Header set Cache-Control "max-age=0, no-cache, no-store, must-revalidate"
+    Header set Pragma "no-cache"
+    Header set Expires "Wed, 11 Jan 1984 05:00:00 GMT"
+</FilesMatch>

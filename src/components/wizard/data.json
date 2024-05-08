@@ -1,0 +1,41 @@
+{
+  "steps": [
+    {
+      "name": "Landing Page",
+      "text": "Let’s start with your homepage. This will be the center of your site.",
+      "url": "/"
+    },
+    {
+      "name": "Product Editor Page",
+      "text": "This is the Product Editor Page.<br>This page will enable you to edit products.<br>Enter in the product SKU or UPC to edit.",
+      "video": {
+        "cover": "/images/cover-product-editor.jpg",
+        "url": "https://storage.googleapis.com/content.ezadtv.com/2024/03/06/65e8c14d98b88_Products_Editor.m4v"
+      },
+      "url": "/admin/settings/product-editor/random"
+    },
+    {
+      "name": "Custom Pages",
+      "text": "In this page you can modify the navigation bar that shows up on your homepage.<br><br><a href=\"#\" class=\"link font-weight-bold\">Click here to modify</a>.",
+      "video": {
+        "cover": "/images/cover-custom-pages.jpg",
+        "url": "https://storage.googleapis.com/content.ezadtv.com/2024/01/23/65afe6b8630b5_Custom_Pages.mov"
+      },
+      "url": "/admin/settings/pages"
+    },
+    {
+      "name": "Landing Page",
+      "text": "This page will show you how your homepage is viewed.<br><br>Customize different features on here.",
+      "video": {
+        "cover": "/images/cover-home-page-editor.jpg",
+        "url": "https://storage.googleapis.com/content.ezadtv.com/2024/03/06/65e8c56a0bac7_Homepage_Editor.m4v"
+      },
+      "url": "/admin/settings/widgets"
+    },
+    {
+      "name": "About Us",
+      "text": "This page lets you customize your about us section.<br>Make your page as personable as you’d like!",
+      "url": "/admin/settings/about-us"
+    }
+  ]
+}

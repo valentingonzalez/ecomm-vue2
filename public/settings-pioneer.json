@@ -1,0 +1,140 @@
+{
+    "businessSlug": "K76GGWHVMD72BZV8",
+    "stripePublishable": "pk_test_SoQebsTMOLR2iExxLINSedwP",
+    "stripeLive": "",
+    "businessName": "Pioneer",
+    "favicon": "https:\/\/storage.googleapis.com\/content.ezadtv.com\/2020\/07\/16\/5f107725650d6_logo-pioneer2.png",
+    "colors": {
+        "primary": "#f02a24",
+        "secondary": "#f02a24",
+        "text": "#2f3540",
+        "background": "#F7F7F7",
+        "header": "#fff",
+        "headerLinkColor": "",
+        "headerText": "",
+        "navigation": "#fff"
+    },
+    "layout": "default",
+    "font": "Roboto",
+    "logo": "https:\/\/storage.googleapis.com\/content.ezadtv.com\/2020\/07\/16\/5f10767041bb5_logo-pioneer.png",
+    "subscribeBannerImage": "url('https:\/\/storage.googleapis.com\/content.ezadtv.com\/2020\/06\/01\/5ed5530c847ce_Generic.jpg')",
+    "buyingFromAlert": {
+        "background": "",
+        "textColor": "",
+        "visible": ""
+    },
+    "homeAlert": {
+        "visible": "true",
+        "text": "Welcome to the new Pioneer Do it Best shopping website! Order products for In-Store Pickup by adding items to your cart.",
+        "background": "primary",
+        "textColor": "white",
+        "fontSize": 18,
+        "fontWeight": "bold"
+    },
+    "text": {
+        "featuredProductText": "",
+        "inStore": "In-Store",
+        "specialOrderWarning": "Special Order From Do it Best",
+        "outOfStock": "Order for 5-7 day shipping to our store",
+        "noRentalItems": "There are no rental items",
+        "specialOrderTitle": "Available for free Ship-to-store",
+        "specialOrderText": "Subject to availability and seasonality from suppliers. If we cannot get it, you will be notified and refunded.",
+        "trademark": "All product and company names are trademarks\u2122 or registered\u00ae trademarks of their respective holders. Use of them does not imply any affiliation with or endorsement by them.",
+        "checkAvailability": "Call Your Local Store For Availability",
+        "emptyCart": "Cart is empty. Browse the website and add the things you like!",
+        "cartDeliveryDisclaimer": "",
+        "forRental": ""
+    },
+    "footer": {
+        "links": ""
+    },
+    "products": {
+        "inventoryItemsMin": 4,
+        "itemsPerPage": 48,
+        "showVideos": "true",
+        "showDescription": "true",
+        "showSimilarProducts": "true",
+        "showQtyInWidgets": "true",
+        "sortOptions": "",
+        "defaultSorting": "relevancy",
+        "filterShowOutOfStock": "true",
+        "inStockProductRename": "",
+        "hideUpc": "",
+        "hideInStockCheckbox": ""
+    },
+    "departments": {
+        "defaultSorting": "relevancy"
+    },
+    "brands": {
+        "defaultSorting": "relevancy"
+    },
+    "cart": {
+        "specialOrderMessage": "Special order May Be Required",
+        "specialOrderDisclaimer": "Subject to Availability and seasonality from suppliers. If we cannot get it, you will be notified and refunded.",
+        "specialOrderBadge": "",
+        "specialOrderMessageTooltip": "You will receive shipping information over email within the next business day",
+        "empty": "Cart is empty. Browse the website and add the things you like!",
+        "submittedOrderImage": "",
+        "confirmationText": "",
+        "deliveryDisclaimer": "",
+        "allowSpecialOrderVendors": [
+            2020
+        ],
+        "taxJar": "",
+        "hideShipping": "",
+        "showSpecialOrderDays": ""
+    },
+    "admin": {
+        "showStats": "true",
+        "showOrderLocationFilters": "true",
+        "orders": "",
+        "RSCOptions": false,
+        "showContractors": true
+    },
+    "testimonials": "",
+    "liveChatCode": "",
+    "storeNumber": "",
+    "logoMaxWidth": "",
+    "logoMaxHeight": "",
+    "signup": {
+        "extraFields": ""
+    },
+    "contactUs": "",
+    "logoSize": "",
+    "navigationBackground": "",
+    "whiteHeader": "",
+    "lightNav": "",
+    "displayName": "Pioneer Do it Best",
+    "domain": "pioneer",
+    "newOrderEmails": "will@pioneerdoitbest.com",
+    "contactEmail": "will@pioneerdoitbest.com",
+    "company": "doitbest",
+    "navigation": [
+        {
+            "name": "home"
+        },
+        {
+            "name": "departments"
+        },
+        {
+            "name": "brands"
+        },
+        {
+            "name": "About Us",
+            "align": "right"
+        }
+    ],
+    "demo": "false",
+    "homepageBanner": "",
+    "search": {
+        "checkboxFilters": ""
+    },
+    "timezone": "",
+    "meta": {
+        "description": "We have some of the best selections of products at great prices! Our friendly website is here to assist you with all of your purchasing needs. Feel free to contact us if you have any questions!",
+        "loginDescription": "Get discounts & savings when you register for an account today!",
+        "mainImage": "",
+        "loginTitle": ""
+    },
+    "directory": "www-pioneer"
+}

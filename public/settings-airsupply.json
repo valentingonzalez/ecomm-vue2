@@ -1,0 +1,147 @@
+{
+  "businessSlug": "9o1joLsPUb7IGF1p",
+  "stripePublishable": "pk_live_TL6sTBk3kqmpiJQRqbn82Otc",
+  "businessName": "Air Supply Tools",
+  "favicon": "https://storage.googleapis.com/content.ezadtv.com/2020/05/05/5eb1a5ff534f4_64x64.png",
+  "homepageBanner": "https://storage.googleapis.com/content.ezadtv.com/2020/06/04/5ed920b054f31_Banner_6.3.2020R2.jpg",
+  "colors": {
+    "primary": "#c02838",
+    "secondary": "#2b93c9",
+    "text": "#2f3540",
+    "background": "#F7F7F7",
+    "header": "#fff",
+    "navigation": "#fff"
+  },
+  "layout": "default",
+  "font": "Roboto",
+  "logo": "https://storage.googleapis.com/content.ezadtv.com/2020/05/05/5eb1a32011974_Logo1.jpg",
+  "subscribeBannerImage": "url(https://storage.googleapis.com/content.ezadtv.com/2020/07/13/5f0c8f9543c7a_image.png)",
+  "overrideSubscribeImage": true,
+  "buyingFromAlert": {
+    "background": "primary",
+    "textColor": "white",
+    "visible": false
+  },
+  "homeAlert": {
+    "text": "For the health and safety of our team, our administrators are working from home. If you need us, please utilize our chat feature on our site or email us at sales@jeyco.com. Alternatively we are checking messages and returning calls to our office within one business day. Our warehouse and production team is currently working utilizing the safety guidelines issued by the CDC and CA government agencies including social distancing, mask wearing, and increased sanitation of surfaces",
+    "background": "primary",
+    "textColor": "white",
+    "visible": true,
+    "fontSize": 17,
+    "fontWeight" : "bolder"
+  },
+  "text": {
+    "forRental": "In-Store Rental Equipment",
+    "inStore": "For Scheduled Curbside Pick Up",
+    "specialOrderWarning": "",
+    "outOfStock": "",
+    "noRentalItems": "There are no rental items",
+    "specialOrderTitle": "Available In 3-5 Days",
+    "specialOrderText": "Subject to availability and seasonality from suppliers. If we cannot get it, you will be notified and refunded.",
+    "trademark": "All product and company names are trademarks™ or registered® trademarks of their respective holders. Use of them does not imply any affiliation with or endorsement by them.",
+    "vendorInStockText": {
+      "2020": "In Stock: ##"
+    },
+    "vendorSpecialOrderText": {
+      "2020": "Available In 3-5 Days"
+    },
+    "vendorOutOfStockText": {
+      "2020": "Out of Stock"
+    },
+    "catalogInStockText": {
+      "_ezdib": "## Available in 3-5 Days"
+    }
+  },
+  "styles": {
+    "vendorInStockClasses": {
+      "2020": ""
+    },
+    "catalogInStockClasses": {
+      "_ezdib": "font-weight-bold text-danger"
+    }
+  },
+  "footer": {
+    "links": [
+      {
+        "name": "Terms & Conditions",
+        "link": "https://airsupplytools.com/terms-conditions/"
+      }
+    ]
+  },
+  "products": {
+    "showThreeFiveDays": true,
+    "inStockProductRename": "Same Day",
+    "hideReg": false,
+    "inventoryItemsMin": 0,
+    "itemsPerPage": 48,
+    "showVideos": true,
+    "showDescription": true,
+    "showSimilarProducts": true,
+    "showQtyInWidgets": true,
+    "sortOptions": [
+      {"value": "relevancy", "text": "Relevancy"},
+      {"value": "price-desc", "text": "Price High to Low"},
+      {"value": "price-asc", "text": "Price Low to High"},
+      {"value": "latest", "text": "New Arrivals"},
+      {"value": "title-asc", "text": "Alphabetical"}
+    ],
+    "defaultSorting": "relevancy"
+  },
+  "departments": {
+    "defaultSorting": "relevancy"
+  },
+  "brands": {
+    "defaultSorting": "relevancy"
+  },
+  "cart": {
+    "rewardMembers": false,
+    "hideAddress" : true,
+    "specialOrderMessage": "Special order May Be Required",
+    "specialOrderDisclaimer": "Subject to Availability and seasonality from suppliers. If we cannot get it, you will be notified and refunded.",
+    "specialOrderMessageTooltip": "You will receive shipping information over email within the next business day",
+    "empty": "Cart is empty. Browse the website and add the things you like!",
+    "deliveryDisclaimer": "",
+    "allowSpecialOrderVendors": [2020],
+    "taxJar" : true
+  },
+  "admin": {
+    "showStats": true,
+    "showOrderLocationFilters": true
+  },
+  "navigation": [
+    { "name": "home" },
+    { "name": "departments" },
+    { "name": "About Us", "align": "right" }
+  ],
+  "testimonials": [
+    {
+      "id": 1,
+      "message": "(Jeyco) always has what you need. Courteous and friendly.",
+      "author": "Michael E.",
+      "role": ""
+    },
+    {
+      "id": 2,
+      "message": "(Jeyco) is always very responsive to my request for quotes and the delivery of our parts. Keep up the good work!",
+      "author": "Don H.",
+      "role": ""
+    },
+    {
+      "id": 3,
+      "message": "Thank you for the great support you have given to us in 2018. Looking forward to more business throughout 2019.",
+      "author": "Greg D.",
+      "role": ""
+    }
+  ],
+  "search": {
+    "checkboxFilters": [
+      {
+        "key": "avail_35",
+        "label": "Available in 3-5 days",
+        "checked": {"externalOnly": "1"},
+        "unchecked": {"posOnly": "-1"}
+      }
+    ]
+  },
+  "liveChatCode": "<!-- begin olark code -->\n<script type=\"text/javascript\" async> ;(function(o,l,a,r,k,y){if(o.olark)return; r=\"script\";y=l.createElement(r);r=l.getElementsByTagName(r)[0]; y.async=1;y.src=\"//\"+a;r.parentNode.insertBefore(y,r); y=o.olark=function(){k.s.push(arguments);k.t.push(+new Date)}; y.extend=function(i,j){y(\"extend\",i,j)}; y.identify=function(i){y(\"identify\",k.i=i)}; y.configure=function(i,j){y(\"configure\",i,j);k.c[i]=j}; k=y._={s:[],t:[+new Date],c:{},l:a}; })(window,document,\"static.olark.com/jsclient/loader.js\");\n/* custom configuration goes here (www.olark.com/documentation) */\nolark.identify('8488-589-10-6899');</script>\n<!-- end olark code -->"
+}

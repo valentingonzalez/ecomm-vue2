@@ -1,0 +1,358 @@
+{
+  "businessSlug": "44F5KZJTN58626C8",
+  "stripePublishable": "pk_test_SoQebsTMOLR2iExxLINSedwP",
+  "stripeLive": "",
+  "businessName": "True Value of Vassar and Frankenmuth",
+  "favicon": "https://storage.googleapis.com/content.ezadtv.com/2020/06/12/5ee3cae43d502_favicon-96x96.png",
+  "colors": {
+    "primary": "#d0021b",
+    "secondary": "#f5973e",
+    "text": "#2f3540",
+    "background": "#F7F7F7",
+    "header": "#fff",
+    "headerLinkColor": "",
+    "headerText": "",
+    "navigation": "#fff",
+    "priceColor": "",
+    "promoPriceColor": "",
+    "storeColor": ""
+  },
+  "layout": "default",
+  "font": "Roboto",
+  "logo": "https://storage.googleapis.com/content.ezadtv.com/2020/10/09/5f80d49919bc6_logo.png",
+  "subscribeBannerImage": "url('https://storage.googleapis.com/content.ezadtv.com/2020/06/01/5ed5530c847ce_Generic.jpg')",
+  "buyingFromAlert": {
+    "background": "",
+    "textColor": "",
+    "visible": ""
+  },
+  "homeAlert": {
+    "visible": "",
+    "text": "",
+    "background": "",
+    "textColor": "",
+    "fontSize": "",
+    "fontWeight": "",
+    "allowOverrideEvenBasicPlan": ""
+  },
+  "text": {
+    "featuredProductText": "",
+    "inStore": "In-Store",
+    "specialOrderWarning": "",
+    "outOfStock": "Order for 3-5 day shipping to our store",
+    "noRentalItems": "There are no rental items",
+    "specialOrderTitle": "Special Order May Be Required",
+    "specialOrderText": "Subject to availability and seasonality from suppliers. If we cannot get it, you will be notified and refunded.",
+    "trademark": "All product and company names are trademarks™ or registered® trademarks of their respective holders. Use of them does not imply any affiliation with or endorsement by them.",
+    "checkAvailability": "Call Your Local Store For Availability",
+    "emptyCart": "Cart is empty. Browse the website and add the things you like!",
+    "cartDeliveryDisclaimer": "",
+    "forRental": "",
+    "promoQuantityHeader": "",
+    "specialOrderTextByLocation": [
+      {
+        "id": "21",
+        "text": "Place your order by 3:00PM on Saturday to receive by Tuesday."
+      },
+      {
+        "id": "365",
+        "text": "Place your order by 3:00PM on Monday to receive by Thursday."
+      }
+    ],
+    "deliveryConfirmationText": "",
+    "vendorInStockText": "",
+    "vendorSpecialOrderText": "",
+    "vendorOutOfStockText": "",
+    "catalogInStockText": "",
+    "outOfStockText": "",
+    "extraProductMessage": "",
+    "inStockText": "",
+    "customPurchaseTitle": "",
+    "customPurchaseText": "",
+    "tvCustomQtyMessage": "",
+    "tvCustomAvailableMessage": "",
+    "specialOrderFee": "",
+    "onlyXLeftText": ""
+  },
+  "footer": {
+    "locations": null,
+    "links": "",
+    "facebookPage": "",
+    "showSslLogo": "",
+    "instagramPage": ""
+  },
+  "products": {
+    "inventoryItemsMin": 4,
+    "itemsPerPage": 48,
+    "showVideos": false,
+    "showDescription": true,
+    "showSimilarProducts": true,
+    "showQtyInWidgets": true,
+    "sortOptions": "",
+    "defaultSorting": "relevancy",
+    "hideReg": "",
+    "filterShowOutOfStock": true,
+    "inStockProductRename": "",
+    "hideUpc": "",
+    "hideInStockCheckbox": "",
+    "disableOrdering": "",
+    "showThreeFiveDays": "",
+    "capitalizeTitle": "",
+    "regularPriceText": "",
+    "currencyPrefix": "",
+    "useOriginalTitle": "",
+    "hidePriceOutOfStock": "",
+    "disableSpecialOrdering": true,
+    "showSimilarProductsByProduct": "",
+    "showTopBrandProducts": "",
+    "showDepartmentDropdownInSearch": "",
+    "getQuoteSpecial": "",
+    "hideProductLocation": "",
+    "getQuoteEmail": "",
+    "hideProductUnit": "",
+    "hiddenPriceText": "",
+    "syncHandlePromos": "",
+    "showPartnerInventories": "",
+    "hideQuantity": "",
+    "alwaysShowProp65": "",
+    "widgetPromoLabel": "",
+    "singlePromoLabel": "",
+    "hideBrandFromTitle": "",
+    "hideOutOfStockItems": "",
+    "showUnitInventory": "",
+    "showOutOfStockItems": "",
+    "hideRentalPrices": "",
+    "hidePrice": "",
+    "alwaysShowProductLocation": "",
+    "showSpecs": "",
+    "disableSearchBar": ""
+  },
+  "departments": {
+    "defaultSorting": "relevancy",
+    "skipAutoFormat": "",
+    "multiLevel": "",
+    "sortOptions": "",
+    "hideHeadersInMenu": ""
+  },
+  "brands": {
+    "defaultSorting": "relevancy",
+    "showImages": "",
+    "sortAlphabetical": "",
+    "capitalize": ""
+  },
+  "cart": {
+    "allowRecurringOrders": true,
+    "rewardMembers": "",
+    "hideAddress": "",
+    "specialOrderMessage": "Special order May Be Required",
+    "specialOrderDisclaimer": "Subject to Availability and seasonality from suppliers. If we cannot get it, you will be notified and refunded.",
+    "specialOrderBadge": "",
+    "specialOrderMessageTooltip": "You will receive shipping information over email within the next business day",
+    "empty": "Cart is empty. Browse the website and add the things you like!",
+    "submittedOrderImage": "",
+    "confirmationText": "",
+    "deliveryDisclaimer": "",
+    "taxJar": "",
+    "hideShipping": "",
+    "showSpecialOrderDays": "",
+    "enableDeliveryDate": "",
+    "promos": "",
+    "allowSpecialOrderVendors": "",
+    "taxDisclaimer": "",
+    "additionalCountries": "",
+    "showCardProviders": "",
+    "taxExemptionCheck": "",
+    "discountEligibilityCheck": "",
+    "hideVendorInSpecialOrder": "",
+    "refundInfo": "",
+    "deliveryZipsAllowed": "",
+    "allowedZips": {
+      "21": [
+        {
+          "code": "48768",
+          "fee": "0"
+        },
+        {
+          "code": "48746",
+          "fee": "0"
+        },
+        {
+          "code": "48744",
+          "fee": "0"
+        }
+      ],
+      "365": [
+        {
+          "code": "48734",
+          "fee": "0"
+        },
+        {
+          "code": "48601",
+          "fee": "0"
+        },
+        {
+          "code": "48415",
+          "fee": "0"
+        }
+      ]
+    },
+    "disclaimer": "",
+    "allowSavedCarts": "",
+    "hideTax": "",
+    "hideDeliveryZipcode": "",
+    "cartModal": "",
+    "deferCapture": "",
+    "pickupDistanceLimit": "",
+    "alwaysRequireAddress": "",
+    "showUnitPrice": "",
+    "distanceModal": "",
+    "showCheckoutCbLayout": "",
+    "hideUnitedStatesDeliveryOption": "",
+    "restrictedStatesForShipping": "",
+    "restrictedStatesMessage": "",
+    "hideSpecialOrderMessage": "",
+    "rdcAware": ""
+  },
+  "admin": {
+    "showStats": true,
+    "showOrderLocationFilters": true,
+    "orders": "",
+    "hideSecondStep": "",
+    "RSCOptions": "",
+    "showContractors": "",
+    "orderTimeZone": ""
+  },
+  "testimonials": {
+    "1": "",
+    "2": ""
+  },
+  "liveChatCode": "",
+  "storeNumber": "",
+  "logoMaxWidth": "",
+  "logoMaxHeight": "",
+  "signup": {
+    "extraFields": ""
+  },
+  "contactUs": {
+    "hideEmail": ""
+  },
+  "logoSize": "",
+  "navigationBackground": "",
+  "whiteHeader": "",
+  "lightNav": "",
+  "displayName": "True Value Vassar/Muth",
+  "domain": "vassartruevaluehardware",
+  "newOrderEmails": "adam@vassartv.com",
+  "contactEmail": "adam@vassartv.com",
+  "company": "orgill",
+  "navigation": [
+    {
+      "name": "home",
+      "path": "/home",
+      "components": {}
+    },
+    {
+      "name": "departments",
+      "path": "/departments",
+      "components": {}
+    },
+    {
+      "name": "brands",
+      "path": "/brands",
+      "components": {}
+    },
+    {
+      "name": "About Us",
+      "align": "right",
+      "path": "/about-us",
+      "components": {}
+    }
+  ],
+  "demo": true,
+  "homepageBanner": "",
+  "search": {
+    "checkboxFilters": ""
+  },
+  "timezone": "",
+  "meta": {
+    "description": "We have some of the best selections of products at great prices! Our friendly website is here to assist you with all of your purchasing needs. Feel free to contact us if you have any questions!",
+    "loginDescription": "Get discounts & savings when you register for an account today!",
+    "mainImage": "",
+    "loginTitle": ""
+  },
+  "directory": "www-vassartruevaluehardware",
+  "overrideSubscribeImage": "",
+  "tax_rate": "",
+  "adminNavigation": "",
+  "showPhoneInNavigation": "",
+  "emailNavLink": "",
+  "onlyFeatured": "",
+  "navigationLayout": "",
+  "aboutUsLocations": "",
+  "customLayout": "",
+  "showAdvancedSetting": "1",
+  "principles": "",
+  "registrationOptions": {
+    "companyInput": "",
+    "hideFromHeader": ""
+  },
+  "locationData": {
+    "Millhouse": "",
+    "Wildey": ""
+  },
+  "testKey": "",
+  "business": "",
+  "authData": "",
+  "aboutUsEmails": "",
+  "logoMaxheight": "",
+  "undefined": "",
+  "logoLink": "",
+  "showConsultationReport": "",
+  "dynamicMap": "",
+  "customCss": "",
+  "extraProductMessage": "",
+  "styles": {
+    "vendorInStockClasses": "",
+    "catalogInStockClasses": ""
+  },
+  "specialPricePositionBottom": "",
+  "aboutUsTitle": "",
+  "aboutUsTitleHidden": "",
+  "showLocationPhoneInNav": "",
+  "business_telephone": "",
+  "business_address": "",
+  "business_city": "",
+  "business_state": "",
+  "business_country": "",
+  "ecommercePlan": "null",
+  "tvRDC": "",
+  "dibRSC": "",
+  "e2Warehouse": "",
+  "logoPrint": "",
+  "business_zipcode": "",
+  "business_email": "",
+  "rentals": {
+    "disableLocationSelection": true,
+    "allowDeliveryLocations": true,
+    "hideFulfillmentOptions": "",
+    "rentalContactText": "",
+    "disableContactForm": "",
+    "rentalInStockText": "",
+    "disclaimer": "Additional deposit and taxes will be collected at the time of rental. <br /> Above pricing is for equipment rental only. Trailer for transport, if required, is not included.",
+    "submitFormDisclaimerTop": "This is an equipment rental request form, not the actual reservation. A representative will respond in a few hours or if after hours the start of the next business day. <br/>Reservation must be made in the name of the person that will be picking up or receiving equipment. The person reserving equipment must present a valid credit card and State ID.",
+    "submitFormDisclaimerBottom": "Trailer for transport, if required, is not included."
+  },
+  "aboutUs": {
+    "hideContactUsOption": ""
+  },
+  "localAd": {
+    "hideLocalAdNavLink": true
+  },
+  "header": {
+    "locationSelector": ""
+  },
+  "navStyle": {
+    "links": "",
+    "locationSelector": ""
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "businessSlug": "V3sJ2p2J22GEOL11",
+  "stripePublishable": "pk_live_TL6sTBk3kqmpiJQRqbn82Otc",
+  "businessName": "Trinity Lumber",
+  "favicon": "https://storage.googleapis.com/content.ezadtv.com/2020/06/16/5ee95c2518bcd_favicon-32x323.png",
+  "colors": {
+    "primary": "#275526",
+    "secondary": "#febf34",
+    "text": "#2f3540",
+    "background": "#F7F7F7",
+    "header": "#fff",
+    "navigation": "#fff"
+  },
+  "layout": "default",
+  "font": "Roboto",
+  "logo": "https://storage.googleapis.com/content.ezadtv.com/2020/06/16/5ee95c08328af_logo.jpg",
+  "subscribeBannerImage": "url(https://storage.googleapis.com/content.ezadtv.com/2020/01/21/5e2734d1cf143_TrinityLumber.jpg)",
+  "buyingFromAlert": {
+    "background": "primary",
+    "textColor": "white",
+    "visible": false
+  },
+  "homeAlert": {
+    "text": "For the health and safety of our team, our administrators are working from home. If you need us, please utilize our chat feature on our site or email us at sales@jeyco.com. Alternatively we are checking messages and returning calls to our office within one business day. Our warehouse and production team is currently working utilizing the safety guidelines issued by the CDC and CA government agencies including social distancing, mask wearing, and increased sanitation of surfaces",
+    "background": "primary",
+    "textColor": "white",
+    "visible": false,
+    "fontSize": 17,
+    "fontWeight" : "bolder"
+  },
+  "text": {
+    "forRental": "In-Store Rental Equipment",
+    "inStore": "Curbside",
+    "specialOrderWarning": "",
+    "outOfStock": "",
+    "noRentalItems": "There are no rental items",
+    "specialOrderTitle": "Special Order May Be Required",
+    "specialOrderText": "Subject to availability and seasonality from suppliers. If we cannot get it, you will be notified and refunded.",
+    "trademark": "All product and company names are trademarks™ or registered® trademarks of their respective holders. Use of them does not imply any affiliation with or endorsement by them."
+  },
+  "footer": {
+    "links": [
+    ]
+  },
+  "products": {
+    "inStockProductRename": "In Stock",
+    "hideReg": true,
+    "inventoryItemsMin": 0,
+    "itemsPerPage": 48,
+    "showVideos": true,
+    "showDescription": true,
+    "showSimilarProducts": true,
+    "showQtyInWidgets": true,
+    "sortOptions": [
+      {"value": "relevancy", "text": "Relevancy"},
+      {"value": "price-desc", "text": "Price High to Low"},
+      {"value": "price-asc", "text": "Price Low to High"},
+      {"value": "latest", "text": "New Arrivals"},
+      {"value": "title-asc", "text": "Alphabetical"}
+    ],
+    "defaultSorting": "relevancy"
+  },
+  "departments": {
+    "defaultSorting": "relevancy"
+  },
+  "brands": {
+    "defaultSorting": "relevancy"
+  },
+  "cart": {
+    "rewardMembers": false,
+    "hideAddress" : true,
+    "specialOrderMessage": "Special order May Be Required",
+    "specialOrderDisclaimer": "Subject to Availability and seasonality from suppliers. If we cannot get it, you will be notified and refunded.",
+    "specialOrderMessageTooltip": "You will receive shipping information over email within the next business day",
+    "empty": "Cart is empty. Browse the website and add the things you like!",
+    "deliveryDisclaimer": ""
+  },
+  "admin": {
+    "showStats": true,
+    "showOrderLocationFilters": true
+  },
+  "navigation": [
+    { "name": "home" },
+    { "name": "departments" },
+    { "name": "brands"},
+    { "name": "About Us", "align": "right" }
+  ],
+  "search": {
+  }
+}

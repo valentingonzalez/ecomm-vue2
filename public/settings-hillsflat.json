@@ -1,0 +1,311 @@
+{
+  "businessSlug": "G6Z9cAQv4qtm2300",
+  "stripePublishable": "pk_test_SoQebsTMOLR2iExxLINSedwP",
+  "stripeLive": "",
+  "businessName": "Hills Flat Lumber",
+  "favicon": "https:\/\/storage.googleapis.com\/content.ezadtv.com\/2020\/06\/04\/5ed973e59b879_favicon-32x322.png",
+  "colors": {
+      "primary": "#ed6730",
+      "secondary": "#4a4a4a",
+      "text": "#2f3540",
+      "background": "#F7F7F7",
+      "header": "#fff",
+      "headerLinkColor": "",
+      "headerText": "",
+      "navigation": "#fff",
+      "priceColor": "",
+      "promoPriceColor": "",
+      "storeColor": ""
+  },
+  "layout": "default",
+  "font": "Roboto",
+  "logo": "https:\/\/storage.googleapis.com\/content.ezadtv.com\/2020\/06\/04\/5ed973c821ac6_logo1.png",
+  "subscribeBannerImage": "url(http:\/\/api.ezadtv.com\/storage\/admin\/subscription\/yBXnQLsrgGQjkY7TrVTlrYxDpQ7LuhT9ARGMA83m.png)",
+  "buyingFromAlert": {
+      "background": "primary",
+      "textColor": "white",
+      "visible": ""
+  },
+  "homeAlert": {
+      "visible": true,
+      "text": "Online orders of $299 or more qualify for free local delivery. Enter the code FREEDEL at checkout. ",
+      "background": "info",
+      "textColor": "white",
+      "fontSize": 18,
+      "fontWeight": "bolder"
+  },
+  "text": {
+      "featuredProductText": "",
+      "inStore": "In-Store",
+      "specialOrderWarning": "Available for Special Order. Special Orders will take 3-5 Days",
+      "outOfStock": "",
+      "noRentalItems": "There are no rental items",
+      "specialOrderTitle": "Available for Special Order. Special Orders will take 3-5 Days",
+      "specialOrderText": "",
+      "trademark": "All product and company names are trademarks\u2122 or registered\u00ae trademarks of their respective holders. Use of them does not imply any affiliation with or endorsement by them.",
+      "checkAvailability": "Call Your Local Store For Availability",
+      "emptyCart": "Cart is empty. Browse the website and add the things you like!",
+      "cartDeliveryDisclaimer": "Get stuff done around the house! We will bring it out for five bucks.<br>We are all in this together!",
+      "forRental": "In-Store Rental Equipment",
+      "promoQuantityHeader": "",
+      "specialOrderTextByLocation": "",
+      "deliveryConfirmationText": "",
+      "vendorInStockText": "",
+      "vendorOutOfStockText": "",
+      "catalogInStockText": "",
+      "vendorSpecialOrderText": "",
+      "outOfStockText": "",
+      "extraProductMessage": "",
+      "inStockText": "",
+      "customPurchaseTitle": "",
+      "customPurchaseText": "",
+      "tvCustomQtyMessage": "",
+      "tvCustomAvailableMessage": "",
+      "specialOrderFee": "",
+      "onlyXLeftText": ""
+  },
+  "footer": {
+      "links": "",
+      "facebookPage": "",
+      "showSslLogo": "",
+      "instagramPage": "",
+      "locations": null
+  },
+  "products": {
+      "inventoryItemsMin": 3,
+      "itemsPerPage": 48,
+      "showVideos": true,
+      "showDescription": true,
+      "showSimilarProducts": true,
+      "showQtyInWidgets": true,
+      "sortOptions": [
+          {
+              "value": "relevancy",
+              "text": "Relevancy"
+          },
+          {
+              "value": "price-desc",
+              "text": "Price High to Low"
+          },
+          {
+              "value": "price-asc",
+              "text": "Price Low to High"
+          },
+          {
+              "value": "latest",
+              "text": "New Arrivals"
+          },
+          {
+              "value": "title-asc",
+              "text": "Alphabetical"
+          }
+      ],
+      "defaultSorting": "relevancy",
+      "hideReg": "",
+      "filterShowOutOfStock": "",
+      "inStockProductRename": "",
+      "hideUpc": "",
+      "hideInStockCheckbox": "",
+      "disableOrdering": false,
+      "showThreeFiveDays": "",
+      "capitalizeTitle": "",
+      "regularPriceText": "",
+      "currencyPrefix": "",
+      "useOriginalTitle": "",
+      "hidePriceOutOfStock": "",
+      "disableSpecialOrdering": false,
+      "showTopBrandProducts": false,
+      "showSimilarProductsByProduct": true,
+      "showDepartmentDropdownInSearch": "",
+      "getQuoteSpecial": "",
+      "hideProductLocation": "",
+      "getQuoteEmail": "",
+      "hideProductUnit": "",
+      "hiddenPriceText": "",
+      "syncHandlePromos": "",
+      "showPartnerInventories": "",
+      "hideQuantity": "",
+      "alwaysShowProp65": "",
+      "widgetPromoLabel": "",
+      "singlePromoLabel": "",
+      "hideBrandFromTitle": true,
+      "hideOutOfStockItems": "",
+      "showUnitInventory": "",
+      "showOutOfStockItems": "",
+      "hideRentalPrices": "",
+      "hidePrice": "",
+      "alwaysShowProductLocation": ""
+  },
+  "departments": {
+      "defaultSorting": "relevancy",
+      "skipAutoFormat": "",
+      "multiLevel": "",
+      "sortOptions": "",
+      "hideHeadersInMenu": ""
+  },
+  "brands": {
+      "defaultSorting": "relevancy",
+      "showImages": "",
+      "sortAlphabetical": "",
+      "capitalize": ""
+  },
+  "cart": {
+      "rewardMembers": "",
+      "hideAddress": "",
+      "specialOrderMessage": "Available for Special Order. Special Orders will take 3-5 Business Days",
+      "specialOrderDisclaimer": "Subject to Availability and seasonality from suppliers. If we cannot get it, you will be notified and refunded.",
+      "specialOrderBadge": "",
+      "specialOrderMessageTooltip": "You will receive shipping information over email within the next business day",
+      "empty": "Cart is empty. Browse the website and add the things you like!",
+      "submittedOrderImage": "https:\/\/storage.googleapis.com\/content.ezadtv.com\/2020\/05\/20\/5ec5ba405c9bb_OrderCompletePage-graphic.jpg",
+      "confirmationText": "<span style='color:green'>Success! Orders Submitted<br>But WAIT! Don\u2019t Leave the house just yet\u2026<\/span><br><br><small>We\u2019ll reach out soon to let you know your order is ready for pick up. <br>Order are generally ready for pickup within <u>24-48 hours<\/u>, but please look for the \u201cready-for-pickup\u201d email notice prior to arriving at the store<\/small><br><br><dfn>For questions regarding your order, please call the store you ordered from and have your order number ready for reference.<\/dfn><br><span style='font-size:16px; color:green'>Thank you for shopping local with us!<\/span>",
+      "deliveryDisclaimer": "",
+      "taxJar": "",
+      "hideShipping": "",
+      "showSpecialOrderDays": "",
+      "enableDeliveryDate": "",
+      "promos": "",
+      "allowSpecialOrderVendors": "",
+      "taxDisclaimer": "",
+      "additionalCountries": "",
+      "showCardProviders": "",
+      "taxExemptionCheck": "",
+      "discountEligibilityCheck": "",
+      "hideVendorInSpecialOrder": "",
+      "refundInfo": "",
+      "deliveryZipsAllowed": "",
+      "allowedZips": "",
+      "disclaimer": "",
+      "allowSavedCarts": "",
+      "hideTax": "",
+      "hideDeliveryZipcode": "",
+      "cartModal": "",
+      "deferCapture": "",
+      "pickupDistanceLimit": "",
+      "alwaysRequireAddress": "",
+      "showUnitPrice": "",
+      "distanceModal": "",
+      "showCheckoutCbLayout": true,
+      "hideUnitedStatesDeliveryOption": "",
+      "restrictedStatesForShipping": "",
+      "restrictedStatesMessage": ""
+  },
+  "admin": {
+      "showStats": "1",
+      "showOrderLocationFilters": "1",
+      "orders": "",
+      "hideSecondStep": "",
+      "RSCOptions": "",
+      "showContractors": "",
+      "orderTimeZone": ""
+  },
+  "testimonials": {
+      "1": "",
+      "2": ""
+  },
+  "liveChatCode": "",
+  "storeNumber": "",
+  "logoMaxWidth": "",
+  "logoMaxHeight": "",
+  "signup": {
+      "extraFields": ""
+  },
+  "contactUs": {
+      "hideEmail": ""
+  },
+  "logoSize": "",
+  "navigationBackground": "secondary",
+  "whiteHeader": "",
+  "lightNav": "",
+  "displayName": "Hills Flat Do it Best Lumber",
+  "domain": "hillflatdoitbestlumber",
+  "newOrderEmails": "admin@admin2300.com",
+  "contactEmail": "admin@admin2300.com",
+  "company": "doitbest",
+  "navigation": [
+      {
+          "name": "home"
+      },
+      {
+          "name": "departments"
+      },
+      {
+          "name": "brands"
+      },
+      {
+          "name": "About Us",
+          "align": "right"
+      }
+  ],
+  "demo": true,
+  "homepageBanner": "",
+  "search": {
+      "checkboxFilters": ""
+  },
+  "timezone": "",
+  "meta": {
+      "description": "",
+      "loginDescription": "",
+      "mainImage": "",
+      "loginTitle": ""
+  },
+  "directory": "www-hillflatdoitbestlumber",
+  "overrideSubscribeImage": "",
+  "tax_rate": "",
+  "adminNavigation": "",
+  "showPhoneInNavigation": "",
+  "emailNavLink": "",
+  "onlyFeatured": "",
+  "navigationLayout": "",
+  "aboutUsLocations": "",
+  "customLayout": "",
+  "showAdvancedSetting": "",
+  "principles": "",
+  "registrationOptions": {
+      "companyInput": "",
+      "hideFromHeader": ""
+  },
+  "locationData": {
+      "Millhouse": "",
+      "Wildey": ""
+  },
+  "testKey": "",
+  "business": "",
+  "authData": "",
+  "aboutUsEmails": "",
+  "logoLink": "",
+  "showConsultationReport": "",
+  "dynamicMap": "",
+  "customCss": "",
+  "extraProductMessage": "",
+  "styles": {
+      "vendorInStockClasses": "",
+      "catalogInStockClasses": ""
+  },
+  "logoMaxheight": "",
+  "undefined": "",
+  "specialPricePositionBottom": "",
+  "aboutUsTitle": "",
+  "aboutUsTitleHidden": "",
+  "showLocationPhoneInNav": true,
+  "business_telephone": "",
+  "business_address": "",
+  "business_city": "",
+  "business_state": "",
+  "business_country": "",
+  "ecommercePlan": "null",
+  "tvRDC": "",
+  "dibRSC": "",
+  "e2Warehouse": "",
+  "logoPrint": "",
+  "business_zipcode": "",
+  "business_email": "",
+  "rentals": {
+      "disableLocationSelection": "",
+      "allowDeliveryLocations": "",
+      "hideFulfillmentOptions": ""
+  },
+  "aboutUs": {
+      "hideContactUsOption": ""
+  }
+}

@@ -1,0 +1,33 @@
+.modal-header {
+  background-color: transparent !important;
+
+  div {
+    color: #000;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    h5 {
+      margin-bottom: 0;
+    }
+    span {
+      width: 20px;
+      height: 20px;
+      background: var(--primary);
+      border-radius: 50%;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      color: #fff;
+      cursor: pointer;
+    }
+  }
+}
+.modal-body {
+  div {
+    input {
+      margin-top: 4px;
+      margin-bottom: 12px;
+    }
+  }
+}

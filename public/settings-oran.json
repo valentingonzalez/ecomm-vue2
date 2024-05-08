@@ -1,0 +1,200 @@
+{
+    "businessSlug": "E75PPMP75FJD35LR",
+    "stripePublishable": "pk_test_SoQebsTMOLR2iExxLINSedwP",
+    "stripeLive": "",
+    "businessName": "Oran",
+    "favicon": "https:\/\/storage.googleapis.com\/content.ezadtv.com\/2020\/06\/11\/5ee2ab852d7e5_doitbesthomecentre1.jpg",
+    "colors": {
+        "primary": "#e24726",
+        "secondary": "#f0c300",
+        "text": "#2f3540",
+        "background": "#F7F7F7",
+        "header": "#fff",
+        "headerLinkColor": "",
+        "headerText": "",
+        "navigation": "#fff",
+        "priceColor": "",
+        "promoPriceColor": ""
+    },
+    "layout": "default",
+    "font": "Roboto",
+    "logo": "https:\/\/storage.googleapis.com\/content.ezadtv.com\/2020\/06\/11\/5ee2ab2eb6fa0_doitbesthomecentre1.jpg",
+    "subscribeBannerImage": "url('https:\/\/storage.googleapis.com\/content.ezadtv.com\/2020\/06\/01\/5ed5530c847ce_Generic.jpg')",
+    "buyingFromAlert": {
+        "background": "",
+        "textColor": "",
+        "visible": ""
+    },
+    "homeAlert": {
+        "visible": "",
+        "text": "",
+        "background": "",
+        "textColor": "",
+        "fontSize": "",
+        "fontWeight": ""
+    },
+    "text": {
+        "featuredProductText": "",
+        "inStore": "In-Store",
+        "specialOrderWarning": "Special Order From Do it Best",
+        "outOfStock": "",
+        "noRentalItems": "There are no rental items",
+        "specialOrderTitle": "Special Order ",
+        "specialOrderText": "Call to place an order for 2 week international shipping directly to you",
+        "trademark": "All product and company names are trademarks\u2122 or registered\u00ae trademarks of their respective holders. Use of them does not imply any affiliation with or endorsement by them.",
+        "checkAvailability": "Call Your Local Store For Availability",
+        "emptyCart": "Cart is empty. Browse the website and add the things you like!",
+        "cartDeliveryDisclaimer": "",
+        "forRental": "",
+        "promoQuantityHeader": ""
+    },
+    "footer": {
+        "links": "",
+        "facebookPage": "",
+        "showSslLogo": true
+    },
+    "products": {
+        "inventoryItemsMin": 4,
+        "itemsPerPage": 48,
+        "showVideos": true,
+        "showDescription": true,
+        "showSimilarProducts": true,
+        "showQtyInWidgets": true,
+        "sortOptions": "",
+        "defaultSorting": "relevancy",
+        "hideReg": false,
+        "filterShowOutOfStock": true,
+        "inStockProductRename": "",
+        "hideUpc": "",
+        "hideInStockCheckbox": "",
+        "disableOrdering": "",
+        "showThreeFiveDays": "",
+        "capitalizeTitle": "",
+        "regularPriceText": "",
+        "disableSpecialOrdering": true,
+        "currencyPrefix": "BD",
+        "useOriginalTitle": "",
+        "hidePriceOutOfStock": true,
+        "showTopBrandProducts": "",
+        "showSimilarProductsByProduct": "",
+        "showDepartmentDropdownInSearch": "",
+        "getQuoteSpecial": true,
+        "getQuoteEmail": "orderdoitbest@gmail.com",
+        "hideProductLocation": true
+    },
+    "departments": {
+        "defaultSorting": "relevancy",
+        "skipAutoFormat": ""
+    },
+    "brands": {
+        "defaultSorting": "relevancy",
+        "showImages": ""
+    },
+    "cart": {
+        "rewardMembers": false,
+        "hideAddress": false,
+        "specialOrderMessage": "Special order May Be Required",
+        "specialOrderDisclaimer": "Two week international shipping directly to you.",
+        "specialOrderBadge": "",
+        "specialOrderMessageTooltip": "You will receive shipping information over email within the next business day",
+        "empty": "Cart is empty. Browse the website and add the things you like!",
+        "submittedOrderImage": "",
+        "confirmationText": "",
+        "deliveryDisclaimer": "",
+        "taxJar": "",
+        "hideShipping": "",
+        "showSpecialOrderDays": "",
+        "enableDeliveryDate": "",
+        "promos": "",
+        "allowSpecialOrderVendors": [
+            2020
+        ],
+        "taxDisclaimer": "",
+        "taxExemptionCheck": "",
+        "discountEligibilityCheck": "",
+        "additionalCountries": { "BRB": "Barbados" },
+        "disclaimer": "Prices are VAT INCLUSIVE",
+        "showCardProviders": true
+    },
+    "admin": {
+        "showStats": true,
+        "showOrderLocationFilters": true,
+        "orders": "",
+        "hideSecondStep": "",
+        "RSCOptions": "",
+        "showContractors": ""
+    },
+    "testimonials": {
+        "1": "",
+        "2": ""
+    },
+    "liveChatCode": "",
+    "storeNumber": "",
+    "logoMaxWidth": "",
+    "logoMaxHeight": "",
+    "signup": {
+        "extraFields": ""
+    },
+    "contactUs": {
+        "hideEmail": false
+    },
+    "logoSize": "",
+    "navigationBackground": "",
+    "whiteHeader": "",
+    "lightNav": "",
+    "displayName": "Oran",
+    "domain": "oran",
+    "newOrderEmails": "areloran@gmail.com",
+    "contactEmail": "areloran@gmail.com",
+    "company": "doitbest",
+    "navigation": [
+        {
+            "name": "home"
+        },
+        {
+            "name": "departments"
+        },
+        {
+            "name": "brands"
+        },
+        {
+            "name": "About Us",
+            "align": "right"
+        }
+    ],
+    "demo": false,
+    "homepageBanner": "",
+    "search": {
+        "checkboxFilters": ""
+    },
+    "timezone": "",
+    "meta": {
+        "description": "",
+        "loginDescription": "",
+        "mainImage": "",
+        "loginTitle": ""
+    },
+    "directory": "www-oran",
+    "overrideSubscribeImage": "",
+    "tax_rate": "",
+    "adminNavigation": "1",
+    "showPhoneInNavigation": "",
+    "emailNavLink": "",
+    "onlyFeatured": "",
+    "navigationLayout": true,
+    "aboutUsLocations": "1",
+    "customLayout": "",
+    "aboutUsLocations": true,
+    "aboutUsEmails": true,
+    "locationData": {
+        "Millhouse": {
+            "lat": "13.147412",
+            "lon": "-59.593178"
+        },
+        "Wildey": {
+            "lat": "13.094871",
+            "lon": "-59.587800"
+        }
+    }
+}
+

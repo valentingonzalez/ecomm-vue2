@@ -1,0 +1,96 @@
+{
+  "businessSlug": "ByPJqir3xEqKCh6M",
+  "stripePublishable": "pk_test_SoQebsTMOLR2iExxLINSedwP",
+  "businessName": "Krempp Lumber Co",
+  "favicon": "https://storage.googleapis.com/content.ezadtv.com/2020/05/04/5eb05e48b714f_favicon-32x323.png",
+  "colors": {
+    "primary": "#3c2415",
+    "secondary": "#e6a323",
+    "text": "#2f3540",
+    "background": "#F7F7F7",
+    "header": "#fff",
+    "navigation": "#e6a323"
+  },
+  "layout": "default",
+  "font": "Roboto",
+  "logo": "https://storage.googleapis.com/content.ezadtv.com/2020/05/12/5ebafce6e9912_KremppLogo_FullColor2.png",
+  "subscribeBannerImage": "url(https://storage.googleapis.com/content.ezadtv.com/2020/05/15/5ebecc8fd52ac_Krempp2.jpg)",
+  "buyingFromAlert": {
+    "background": "primary",
+    "textColor": "white",
+    "visible": false
+  },
+  "homeAlert": {
+    "text": "Welcome to the new Krempp Lumber shopping website! You can shop through the 25,000 items we have In-Store, and order from 60,000 Do it Best items for quick shipping to our store.",
+    "background": "primary",
+    "textColor": "white",
+    "visible": true,
+    "fontSize": 17,
+    "fontWeight" : "bolder"
+  },
+  "text": {
+    "forRental": "In-Store Rental Equipment",
+    "inStore": "In-Store Pickup",
+    "specialOrderWarning": "Special Order From Vendor",
+    "outOfStock": "",
+    "noRentalItems": "There are no rental items",
+    "specialOrderTitle": "Free Ship To Store",
+    "specialOrderText": "Subject to availability and seasonality from suppliers. If we cannot get it, you will be notified and refunded.",
+    "trademark": "All product and company names are trademarks™ or registered® trademarks of their respective holders. Use of them does not imply any affiliation with or endorsement by them."
+  },
+  "footer": {
+    "links": [
+      {
+        "name": "Return Policy",
+        "link": ""
+      }
+    ]
+  },
+  "products": {
+    "filterShowOutOfStock": true,
+    "inventoryItemsMin": 0,
+    "itemsPerPage": 48,
+    "showVideos": true,
+    "showDescription": true,
+    "showSimilarProducts": true,
+    "showQtyInWidgets": true,
+    "sortOptions": [
+      {"value": "relevancy", "text": "Relevancy"},
+      {"value": "price-desc", "text": "Price High to Low"},
+      {"value": "price-asc", "text": "Price Low to High"},
+      {"value": "latest", "text": "New Arrivals"},
+      {"value": "title-asc", "text": "Alphabetical"}
+    ],
+    "defaultSorting": "relevancy"
+  },
+  "departments": {
+    "defaultSorting": "relevancy"
+  },
+  "brands": {
+    "defaultSorting": "relevancy"
+  },
+  "cart": {
+    "rewardMembers": false,
+    "hideAddress" : true,
+    "specialOrderMessage": "Free Ship To Store",
+    "specialOrderDisclaimer": "Subject to Availability and seasonality from suppliers. If we cannot get it, you will be notified and refunded.",
+    "specialOrderMessageTooltip": "You will receive shipping information over email within the next business day",
+    "empty": "Cart is empty. Browse the website and add the things you like!",
+    "deliveryDisclaimer": "",
+    "allowSpecialOrderVendors": [2020]
+  },
+  "admin": {
+    "showStats": true,
+    "showOrderLocationFilters": true
+  },
+  "navigation": [
+    { "name": "home" },
+    { "name": "departments" },
+    { "name": "brands"},
+    { "name": "About Us", "align": "right" },
+    { "name": "Contact Us", "align": "right" }
+  ],
+  "contactUs": {
+    "hideEmail": true
+  }
+}

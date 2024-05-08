@@ -1,0 +1,169 @@
+{
+    "businessSlug": "MAMZMZSLT9WGZ96M",
+    "stripePublishable": "pk_test_SoQebsTMOLR2iExxLINSedwP",
+    "stripeLive": "",
+    "businessName": "Boehs Building Supply",
+    "favicon": "https:\/\/storage.googleapis.com\/content.ezadtv.com\/2020\/07\/20\/5f1625b5507d5_Layer-1.png",
+    "colors": {
+        "primary": "#f46e3e",
+        "secondary": "#f46e3e",
+        "text": "#2f3540",
+        "background": "#f3f3f3",
+        "header": "#fff",
+        "headerLinkColor": "",
+        "headerText": "",
+        "navigation": "#fff",
+        "priceColor": "#37A000"
+    },
+    "layout": "default",
+    "font": "Roboto",
+    "logo": "https:\/\/storage.googleapis.com\/content.ezadtv.com\/2020\/07\/20\/5f1623b55a5ff_Layer-1.jpg",
+    "subscribeBannerImage": "url('https:\/\/storage.googleapis.com\/content.ezadtv.com\/2020\/06\/01\/5ed5530c847ce_Generic.jpg')",
+    "buyingFromAlert": {
+        "background": "",
+        "textColor": "",
+        "visible": ""
+    },
+    "homeAlert": {
+        "visible": true,
+        "text": "Welcome to the new Boehs Building Supply shopping website! Order products for pickup by adding items to the cart.",
+        "background": "white",
+        "textColor": "secondary",
+        "fontSize": 20,
+        "fontWeight": "bolder"
+    },
+    "text": {
+        "featuredProductText": "",
+        "inStore": "In-Store",
+        "specialOrderWarning": "Special Shipping From Do it Best",
+        "outOfStock": "Order for 5-7 day shipping to our store",
+        "noRentalItems": "There are no rental items",
+        "specialOrderTitle": "Special Shipping",
+        "specialOrderText": "This item will arrive in 5-7 days for In-Store Pickup",
+        "trademark": "All product and company names are trademarks\u2122 or registered\u00ae trademarks of their respective holders. Use of them does not imply any affiliation with or endorsement by them.",
+        "checkAvailability": "Call Your Local Store For Availability",
+        "emptyCart": "Cart is empty. Browse the website and add the things you like!",
+        "cartDeliveryDisclaimer": "",
+        "forRental": "",
+        "promoQuantityHeader": ""
+    },
+    "footer": {
+        "links": ""
+    },
+    "products": {
+        "inventoryItemsMin": 4,
+        "itemsPerPage": 48,
+        "showVideos": true,
+        "showDescription": true,
+        "showSimilarProducts": true,
+        "showQtyInWidgets": true,
+        "sortOptions": "",
+        "defaultSorting": "relevancy",
+        "filterShowOutOfStock": true,
+        "inStockProductRename": "",
+        "hideUpc": "",
+        "hideInStockCheckbox": true,
+        "disableOrdering": "",
+        "hideReg": false,
+        "showThreeFiveDays": "",
+        "capitalizeTitle": "",
+        "regularPriceText": "",
+        "currencyPrefix": "",
+        "useOriginalTitle": ""
+    },
+    "departments": {
+        "defaultSorting": "relevancy",
+        "skipAutoFormat": ""
+    },
+    "brands": {
+        "defaultSorting": "relevancy"
+    },
+    "cart": {
+        "specialOrderMessage": "Special order May Be Required",
+        "specialOrderDisclaimer": "Subject to Availability and seasonality from suppliers. If we cannot get it, you will be notified and refunded.",
+        "specialOrderBadge": "",
+        "specialOrderMessageTooltip": "You will receive shipping information over email within the next business day",
+        "empty": "Cart is empty. Browse the website and add the things you like!",
+        "submittedOrderImage": "",
+        "confirmationText": "",
+        "deliveryDisclaimer": "",
+        "allowSpecialOrderVendors": [
+            2020
+        ],
+        "taxJar": "",
+        "hideShipping": "",
+        "showSpecialOrderDays": "",
+        "rewardMembers": false,
+        "hideAddress": false,
+        "enableDeliveryDate": "",
+        "promos": "",
+        "taxDisclaimer": "",
+        "additionalCountries": "",
+        "showCardProviders": ""
+    },
+    "admin": {
+        "showStats": true,
+        "showOrderLocationFilters": true,
+        "orders": "",
+        "hideSecondStep": "",
+        "RSCOptions": "",
+        "showContractors": ""
+    },
+    "testimonials": {
+        "1": "",
+        "2": ""
+    },
+    "liveChatCode": "",
+    "storeNumber": "",
+    "logoMaxWidth": "",
+    "logoMaxHeight": "",
+    "signup": {
+        "extraFields": ""
+    },
+    "contactUs": {
+        "hideEmail": false
+    },
+    "logoSize": "",
+    "navigationBackground": "",
+    "whiteHeader": "",
+    "lightNav": "",
+    "displayName": "Boehs Building Supply",
+    "domain": "boehs",
+    "newOrderEmails": "caleb@boehsbuilding.com",
+    "contactEmail": "caleb@boehsbuilding.com",
+    "company": "doitbest",
+    "navigation": [
+        {
+            "name": "home"
+        },
+        {
+            "name": "departments"
+        },
+        {
+            "name": "brands"
+        },
+        {
+            "name": "About Us",
+            "align": "right"
+        }
+    ],
+    "demo": true,
+    "homepageBanner": "",
+    "search": {
+        "checkboxFilters": ""
+    },
+    "timezone": "",
+    "meta": {
+        "description": "We have some of the best selections of products at great prices! Our friendly website is here to assist you with all of your purchasing needs. Feel free to contact us if you have any questions!",
+        "loginDescription": "Get discounts & savings when you register for an account today!",
+        "mainImage": "",
+        "loginTitle": ""
+    },
+    "directory": "www-boehs",
+    "overrideSubscribeImage": "",
+    "tax_rate": "",
+    "adminNavigation": "",
+    "showPhoneInNavigation": "",
+    "emailNavLink": "",
+    "onlyFeatured": ""
+}

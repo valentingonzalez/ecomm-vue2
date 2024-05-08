@@ -1,0 +1,163 @@
+{
+  "businessSlug": "3DJ6L3LZCW5S8ZLD",
+  "stripePublishable": "pk_test_SoQebsTMOLR2iExxLINSedwP",
+  "stripeLive": "",
+  "businessName": "True Value Home Center ",
+  "favicon": "https://storage.googleapis.com/content.ezadtv.com/2020/05/14/5ebd94428dc0c_favicon2x.png",
+  "colors": {
+    "primary": "#c6061d",
+    "secondary": "#d0021b",
+    "text": "#2f3540",
+    "background": "#ffffff",
+    "header": "#fff",
+    "headerLinkColor": "#c6061d",
+    "headerText": "#c6061d",
+    "navigation": "#c6061d"
+  },
+  "layout": "default",
+  "font": "Roboto",
+  "logo": "https://storage.googleapis.com/content.ezadtv.com/2020/07/08/5f05d5557c74e_truevalue.svg",
+  "subscribeBannerImage": "url('https://storage.googleapis.com/content.ezadtv.com/2020/06/01/5ed5530c847ce_Generic.jpg')",
+  "buyingFromAlert": {
+    "background": "",
+    "textColor": "",
+    "visible": ""
+  },
+  "homeAlert": {
+    "visible": true,
+    "text": "Welcome to the new True Value Home Center website! Order products for In-Store Pickup by adding items to your cart!",
+    "background": "primary",
+    "textColor": "white",
+    "fontSize": 18,
+    "fontWeight": "bold"
+  },
+  "text": {
+    "featuredProductText": "Bargains Of The Month",
+    "inStore": "In-Store",
+    "specialOrderWarning": "Free Shipping to Store Available",
+    "outOfStock": "Order for 3-5 day shipping to our store",
+    "noRentalItems": "There are no rental items",
+    "specialOrderTitle": "Special Order from True Value",
+    "specialOrderText": "",
+    "trademark": "All product and company names are trademarks™ or registered® trademarks of their respective holders. Use of them does not imply any affiliation with or endorsement by them.",
+    "checkAvailability": "Call Your Local Store For Availability",
+    "emptyCart": "Cart is empty. Browse the website and add the things you like!",
+    "cartDeliveryDisclaimer": "",
+    "forRental": "",
+    "promoQuantityHeader": ""
+  },
+  "footer": {
+    "links": ""
+  },
+  "products": {
+    "inventoryItemsMin": 4,
+    "itemsPerPage": 48,
+    "showVideos": true,
+    "showDescription": true,
+    "showSimilarProducts": true,
+    "showQtyInWidgets": true,
+    "sortOptions": "",
+    "defaultSorting": "relevancy",
+    "filterShowOutOfStock": false,
+    "inStockProductRename": "",
+    "hideUpc": "",
+    "hideInStockCheckbox": "",
+    "disableOrdering": false,
+    "hideReg": false,
+    "showThreeFiveDays": "",
+    "capitalizeTitle": "",
+    "regularPriceText": "",
+    "currencyPrefix": ""
+  },
+  "departments": {
+    "defaultSorting": "relevancy",
+    "skipAutoFormat": ""
+  },
+  "brands": {
+    "defaultSorting": "relevancy"
+  },
+  "cart": {
+    "specialOrderMessage": "Special order May Be Required",
+    "specialOrderDisclaimer": "Subject to Availability and seasonality from suppliers. If we cannot get it, you will be notified and refunded.",
+    "specialOrderBadge": "",
+    "specialOrderMessageTooltip": "You will receive shipping information over email within the next business day",
+    "empty": "Cart is empty. Browse the website and add the things you like!",
+    "submittedOrderImage": "",
+    "confirmationText": "",
+    "deliveryDisclaimer": "",
+    "allowSpecialOrderVendors": [
+      1759
+    ],
+    "taxJar": "",
+    "hideShipping": "",
+    "showSpecialOrderDays": "",
+    "rewardMembers": false,
+    "hideAddress": false,
+    "enableDeliveryDate": "",
+    "promos": "",
+    "taxDisclaimer": "",
+    "additionalCountries": ""
+  },
+  "admin": {
+    "showStats": true,
+    "showOrderLocationFilters": true,
+    "orders": "",
+    "hideSecondStep": "",
+    "RSCOptions": "",
+    "showContractors": ""
+  },
+  "testimonials": {
+    "1": "",
+    "2": ""
+  },
+  "liveChatCode": "",
+  "storeNumber": "",
+  "signup": {
+    "extraFields": ""
+  },
+  "contactUs": {
+    "hideEmail": false
+  },
+  "logoSize": "",
+  "navigationBackground": "",
+  "whiteHeader": "",
+  "lightNav": "",
+  "displayName": "True Value Home Center ",
+  "domain": "truevaluehomecenter",
+  "newOrderEmails": "LUMBER@STI.NET",
+  "contactEmail": "LUMBER@STI.NET",
+  "company": "truevalue",
+  "navigation": [
+    {
+      "name": "home"
+    },
+    {
+      "name": "departments"
+    },
+    {
+      "name": "brands"
+    },
+    {
+      "name": "About Us",
+      "align": "right"
+    }
+  ],
+  "demo": true,
+  "homepageBanner": "",
+  "search": {
+    "checkboxFilters": ""
+  },
+  "timezone": "",
+  "meta": {
+    "description": "We have some of the best selections of products at great prices! Our friendly website is here to assist you with all of your purchasing needs. Feel free to contact us if you have any questions!",
+    "loginDescription": "Get discounts & savings when you register for an account today!",
+    "mainImage": "",
+    "loginTitle": ""
+  },
+  "directory": "www-truevaluehomecenter",
+  "tax_rate": "",
+  "overrideSubscribeImage": "",
+  "adminNavigation": "",
+  "showPhoneInNavigation": "",
+  "emailNavLink": ""
+}

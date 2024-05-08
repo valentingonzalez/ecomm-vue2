@@ -1,0 +1,316 @@
+{
+  "businessSlug": "HNwssM2rNpINxmYe",
+  "stripePublishable": "pk_live_TL6sTBk3kqmpiJQRqbn82Otc",
+  "stripeLive": "1",
+  "businessName": "Agway of Cape Cod",
+  "favicon": "https:\/\/storage.googleapis.com\/content.ezadtv.com\/2022\/06\/30\/62bda013602bb_Agway_Logo_300dpi.jpg",
+  "colors": {
+      "primary": "#00678f",
+      "secondary": "#2fb457",
+      "text": "#2f3540",
+      "background": "#F7F7F7",
+      "header": "#fff",
+      "headerLinkColor": "",
+      "headerText": "",
+      "navigation": "#fff",
+      "priceColor": "",
+      "promoPriceColor": "",
+      "storeColor": ""
+  },
+  "layout": "default",
+  "font": "Roboto",
+  "logo": "https:\/\/storage.googleapis.com\/content.ezadtv.com\/2022\/06\/30\/62bda02c51bea_Agway_Logo_300dpi.jpg",
+  "subscribeBannerImage": "url(https:\/\/storage.googleapis.com\/content.ezadtv.com\/2020\/04\/21\/5e9f6044449b9_Agway.jpg)",
+  "buyingFromAlert": {
+      "background": "primary",
+      "textColor": "white",
+      "visible": ""
+  },
+  "homeAlert": {
+      "visible": "1",
+      "text": "You are shopping for Curbside Pickup. To place a Delivery order <a href='https:\/\/agwaycapecod.com\/delivery\/' target='_blank'>Click Here<\/a>",
+      "background": "primary",
+      "textColor": "white",
+      "fontSize": 17,
+      "fontWeight": "bolder"
+  },
+  "text": {
+      "featuredProductText": "",
+      "inStore": "Curbside",
+      "specialOrderWarning": "Special Order From Vendor",
+      "outOfStock": "",
+      "noRentalItems": "There are no rental items",
+      "specialOrderTitle": "Special Order May Be Required",
+      "specialOrderText": "Subject to availability and seasonality from suppliers. If we cannot get it, you will be notified and refunded.",
+      "trademark": "All product and company names are trademarks\u2122 or registered\u00ae trademarks of their respective holders. Use of them does not imply any affiliation with or endorsement by them.",
+      "checkAvailability": "",
+      "emptyCart": "",
+      "cartDeliveryDisclaimer": "",
+      "forRental": "In-Store Rental Equipment",
+      "promoQuantityHeader": "",
+      "specialOrderTextByLocation": "",
+      "deliveryConfirmationText": "",
+      "vendorInStockText": "",
+      "vendorSpecialOrderText": "",
+      "vendorOutOfStockText": "",
+      "catalogInStockText": "",
+      "outOfStockText": "",
+      "extraProductMessage": "",
+      "inStockText": "",
+      "customPurchaseTitle": "",
+      "customPurchaseText": "",
+      "tvCustomQtyMessage": "",
+      "tvCustomAvailableMessage": "",
+      "specialOrderFee": "",
+      "onlyXLeftText": ""
+  },
+  "footer": {
+      "links": [
+          {
+              "name": "Return Policy",
+              "link": "https:\/\/agwaycapecod.com\/return-policy\/"
+          }
+      ],
+      "facebookPage": "",
+      "showSslLogo": "",
+      "locations": null,
+      "instagramPage": ""
+  },
+  "products": {
+      "inventoryItemsMin": "",
+      "itemsPerPage": 48,
+      "showVideos": "",
+      "showDescription": "1",
+      "showSimilarProducts": "",
+      "showQtyInWidgets": "1",
+      "sortOptions": [
+          {
+              "value": "relevancy",
+              "text": "Relevancy"
+          },
+          {
+              "value": "price-desc",
+              "text": "Price High to Low"
+          },
+          {
+              "value": "price-asc",
+              "text": "Price Low to High"
+          },
+          {
+              "value": "latest",
+              "text": "New Arrivals"
+          },
+          {
+              "value": "title-asc",
+              "text": "Alphabetical"
+          }
+      ],
+      "defaultSorting": "relevancy",
+      "hideReg": "",
+      "filterShowOutOfStock": "",
+      "inStockProductRename": "",
+      "hideUpc": "",
+      "hideInStockCheckbox": "",
+      "disableOrdering": "",
+      "showThreeFiveDays": "",
+      "capitalizeTitle": "",
+      "regularPriceText": "",
+      "currencyPrefix": "",
+      "useOriginalTitle": "",
+      "hidePriceOutOfStock": "",
+      "disableSpecialOrdering": "",
+      "showSimilarProductsByProduct": "",
+      "showTopBrandProducts": "",
+      "showDepartmentDropdownInSearch": "",
+      "getQuoteSpecial": "",
+      "hideProductLocation": "",
+      "getQuoteEmail": "",
+      "hideProductUnit": "",
+      "hiddenPriceText": "",
+      "syncHandlePromos": "",
+      "showPartnerInventories": true,
+      "hideQuantity": "",
+      "alwaysShowProp65": "",
+      "widgetPromoLabel": "",
+      "singlePromoLabel": "",
+      "hideBrandFromTitle": true,
+      "hideOutOfStockItems": "",
+      "showUnitInventory": "",
+      "showOutOfStockItems": "",
+      "hideRentalPrices": "",
+      "hidePrice": "",
+      "alwaysShowProductLocation": ""
+  },
+  "departments": {
+      "defaultSorting": "relevancy",
+      "skipAutoFormat": "",
+      "multiLevel": "",
+      "sortOptions": "",
+      "hideHeadersInMenu": ""
+  },
+  "brands": {
+      "defaultSorting": "relevancy",
+      "showImages": "",
+      "sortAlphabetical": "",
+      "capitalize": ""
+  },
+  "cart": {
+      "rewardMembers": "1",
+      "hideAddress": "",
+      "specialOrderMessage": "Special order May Be Required",
+      "specialOrderDisclaimer": "Subject to Availability and seasonality from suppliers. If we cannot get it, you will be notified and refunded.",
+      "specialOrderBadge": "",
+      "specialOrderMessageTooltip": "You will receive shipping information over email within the next business day",
+      "empty": "Cart is empty. Browse the website and add the things you like!",
+      "submittedOrderImage": "https:\/\/storage.googleapis.com\/content.ezadtv.com\/2020\/12\/09\/5fd1030e5c560_success-image.jpg",
+      "confirmationText": "<b style='color: green; font-size: 1.2rem'> Success! We have received your curbside order! <br> But WAIT! Don't jump in your car just yet! <\/b> <br><br> <span><b>What now?<\/b> We'll reach out soon to let you know your order is ready for pick up.<\/span> <br> <span>If you've ordered before 2pm, we'll do everything we can to get your order ready by 5pm today. During peak volume, orders may take up to 24 hours to process.<\/span> <br><br> <span>Please look for the \"ready-for-pickup\" e-mail or text notification prior to arriving to the store.<\/span> <br><br> <span>For questions regarding your order, please call the store you ordered from and be sure to have your order number ready.<\/span> <br> <span>Dennis: 508-385-8772<\/span> <br> <span>Orleans: 508-255-8100<\/span> <br> <span>Chatham: 508-945-1555<\/span> <br><br> <span>Thank you for shopping local with us!<\/span>",
+      "deliveryDisclaimer": "",
+      "taxJar": "",
+      "hideShipping": "",
+      "showSpecialOrderDays": "",
+      "enableDeliveryDate": "",
+      "promos": "",
+      "allowSpecialOrderVendors": "",
+      "taxDisclaimer": "",
+      "additionalCountries": "",
+      "showCardProviders": "",
+      "taxExemptionCheck": "",
+      "discountEligibilityCheck": "",
+      "hideVendorInSpecialOrder": "",
+      "refundInfo": "",
+      "deliveryZipsAllowed": "",
+      "allowedZips": "",
+      "disclaimer": "",
+      "allowSavedCarts": "",
+      "hideTax": "",
+      "hideDeliveryZipcode": "",
+      "cartModal": "",
+      "deferCapture": "",
+      "pickupDistanceLimit": "",
+      "alwaysRequireAddress": "",
+      "showUnitPrice": "",
+      "distanceModal": "",
+      "showCheckoutCbLayout": "",
+      "hideUnitedStatesDeliveryOption": "",
+      "restrictedStatesForShipping": "",
+      "restrictedStatesMessage": ""
+  },
+  "admin": {
+      "showStats": "1",
+      "showOrderLocationFilters": "1",
+      "orders": "",
+      "hideSecondStep": "",
+      "RSCOptions": "",
+      "showContractors": "",
+      "orderTimeZone": ""
+  },
+  "testimonials": {
+      "1": "",
+      "2": ""
+  },
+  "liveChatCode": "",
+  "storeNumber": "",
+  "logoMaxWidth": "",
+  "logoMaxHeight": "",
+  "signup": {
+      "extraFields": ""
+  },
+  "contactUs": {
+      "hideEmail": ""
+  },
+  "logoSize": "",
+  "navigationBackground": "",
+  "whiteHeader": "",
+  "lightNav": "",
+  "displayName": "",
+  "domain": "agwaycapecod",
+  "newOrderEmails": "",
+  "contactEmail": "",
+  "company": "",
+  "navigation": [
+      {
+          "name": "home"
+      },
+      {
+          "name": "departments"
+      },
+      {
+          "name": "brands"
+      },
+      {
+          "name": "About Us",
+          "align": "right"
+      }
+  ],
+  "demo": "",
+  "homepageBanner": "",
+  "search": {
+      "checkboxFilters": ""
+  },
+  "timezone": "",
+  "meta": {
+      "description": "",
+      "loginDescription": "",
+      "mainImage": "",
+      "loginTitle": ""
+  },
+  "directory": "",
+  "overrideSubscribeImage": "",
+  "tax_rate": "",
+  "adminNavigation": "",
+  "showPhoneInNavigation": "",
+  "emailNavLink": "",
+  "onlyFeatured": "",
+  "navigationLayout": "",
+  "aboutUsLocations": "",
+  "customLayout": "",
+  "showAdvancedSetting": "",
+  "principles": "",
+  "registrationOptions": {
+      "companyInput": "",
+      "hideFromHeader": ""
+  },
+  "locationData": {
+      "Millhouse": "",
+      "Wildey": ""
+  },
+  "testKey": "",
+  "business": "",
+  "authData": "",
+  "aboutUsEmails": "",
+  "logoMaxheight": "",
+  "undefined": "",
+  "logoLink": "",
+  "showConsultationReport": "",
+  "dynamicMap": true,
+  "customCss": "",
+  "extraProductMessage": "",
+  "styles": {
+      "vendorInStockClasses": "",
+      "catalogInStockClasses": ""
+  },
+  "specialPricePositionBottom": "",
+  "aboutUsTitle": "",
+  "aboutUsTitleHidden": "",
+  "showLocationPhoneInNav": "",
+  "business_telephone": "",
+  "business_address": "",
+  "business_city": "",
+  "business_state": "",
+  "business_country": "",
+  "ecommercePlan": "null",
+  "tvRDC": "",
+  "dibRSC": "",
+  "e2Warehouse": "",
+  "logoPrint": "",
+  "business_zipcode": "",
+  "business_email": "",
+  "rentals": {
+      "disableLocationSelection": "",
+      "allowDeliveryLocations": "",
+      "hideFulfillmentOptions": ""
+  },
+  "aboutUs": {
+      "hideContactUsOption": ""
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "businessSlug": "S4BE9LYZPD3JZVVC",
+  "stripePublishable": "pk_test_SoQebsTMOLR2iExxLINSedwP",
+  "stripeLive": "",
+  "businessName": "Elitsac Do It Best",
+  "favicon": "https:\/\/storage.googleapis.com\/content.ezadtv.com\/2020\/12\/23\/5fe3db74d0897_elitsac.png",
+  "colors": {
+      "primary": "#225439",
+      "secondary": "#d0021b",
+      "text": "#2f3540",
+      "background": "#F7F7F7",
+      "header": "#fff",
+      "headerLinkColor": "",
+      "headerText": "",
+      "navigation": "#225439",
+      "priceColor": "",
+      "promoPriceColor": ""
+  },
+  "layout": "default",
+  "font": "Roboto",
+  "logo": "https:\/\/storage.googleapis.com\/content.ezadtv.com\/2020\/12\/23\/5fe3db777cd6b_elitsac.png",
+  "subscribeBannerImage": "url('https:\/\/storage.googleapis.com\/content.ezadtv.com\/2020\/06\/01\/5ed5530c847ce_Generic.jpg')",
+  "buyingFromAlert": {
+      "background": "",
+      "textColor": "",
+      "visible": ""
+  },
+  "homeAlert": {
+      "visible": true,
+      "text": "Welcome to the new Elitsac Do It Best shopping website! Order products for In-Store Pickup by adding items to your cart!",
+      "background": "primary",
+      "textColor": "white",
+      "fontSize": 18,
+      "fontWeight": "bold"
+  },
+  "text": {
+      "featuredProductText": "",
+      "inStore": "In-Store",
+      "specialOrderWarning": "Free Shipping to Store Available",
+      "outOfStock": "Order for 3-5 day shipping to our store",
+      "noRentalItems": "There are no rental items",
+      "specialOrderTitle": "Special Order from Do it Best",
+      "specialOrderText": "",
+      "trademark": "All product and company names are trademarks\u2122 or registered\u00ae trademarks of their respective holders. Use of them does not imply any affiliation with or endorsement by them.",
+      "checkAvailability": "Call Your Local Store For Availability",
+      "emptyCart": "Cart is empty. Browse the website and add the things you like!",
+      "cartDeliveryDisclaimer": "",
+      "forRental": "",
+      "promoQuantityHeader": "",
+      "specialOrderTextByLocation": "",
+      "deliveryConfirmationText": "",
+      "vendorInStockText": "",
+      "vendorSpecialOrderText": "",
+      "vendorOutOfStockText": "",
+      "catalogInStockText": "",
+      "outOfStockText": ""
+  },
+  "footer": {
+      "links": "",
+      "facebookPage": "",
+      "showSslLogo": ""
+  },
+  "products": {
+      "inventoryItemsMin": 4,
+      "itemsPerPage": 48,
+      "showVideos": true,
+      "showDescription": true,
+      "showSimilarProducts": true,
+      "showQtyInWidgets": true,
+      "sortOptions": "",
+      "defaultSorting": "relevancy",
+      "hideReg": false,
+      "filterShowOutOfStock": false,
+      "inStockProductRename": "",
+      "hideUpc": "",
+      "hideInStockCheckbox": "",
+      "disableOrdering": false,
+      "showThreeFiveDays": "",
+      "capitalizeTitle": "",
+      "regularPriceText": "",
+      "currencyPrefix": "",
+      "useOriginalTitle": "",
+      "hidePriceOutOfStock": "",
+      "disableSpecialOrdering": "",
+      "showSimilarProductsByProduct": "",
+      "showTopBrandProducts": "",
+      "showDepartmentDropdownInSearch": "",
+      "getQuoteSpecial": "",
+      "hideProductLocation": "",
+      "getQuoteEmail": "",
+      "hideProductUnit": "",
+      "hiddenPriceText": ""
+  },
+  "departments": {
+      "defaultSorting": "relevancy",
+      "skipAutoFormat": ""
+  },
+  "brands": {
+      "defaultSorting": "relevancy",
+      "showImages": "",
+      "sortAlphabetical": ""
+  },
+  "cart": {
+      "rewardMembers": false,
+      "hideAddress": false,
+      "specialOrderMessage": "Special order May Be Required",
+      "specialOrderDisclaimer": "Subject to Availability and seasonality from suppliers. If we cannot get it, you will be notified and refunded.",
+      "specialOrderBadge": "",
+      "specialOrderMessageTooltip": "You will receive shipping information over email within the next business day",
+      "empty": "Cart is empty. Browse the website and add the things you like!",
+      "submittedOrderImage": "",
+      "confirmationText": "",
+      "deliveryDisclaimer": "",
+      "taxJar": "",
+      "hideShipping": "",
+      "showSpecialOrderDays": "",
+      "enableDeliveryDate": "",
+      "promos": "",
+      "allowSpecialOrderVendors": [
+          2020
+      ],
+      "taxDisclaimer": "",
+      "additionalCountries": "",
+      "showCardProviders": "",
+      "taxExemptionCheck": "",
+      "discountEligibilityCheck": "",
+      "hideVendorInSpecialOrder": "",
+      "refundInfo": "",
+      "deliveryZipsAllowed": "",
+      "allowedZips": "",
+      "disclaimer": "",
+      "allowSavedCarts": ""
+  },
+  "admin": {
+      "showStats": true,
+      "showOrderLocationFilters": true,
+      "orders": "",
+      "hideSecondStep": "",
+      "RSCOptions": "",
+      "showContractors": ""
+  },
+  "testimonials": {
+      "1": "",
+      "2": ""
+  },
+  "liveChatCode": "",
+  "storeNumber": "",
+  "logoMaxWidth": "",
+  "logoMaxHeight": "",
+  "signup": {
+      "extraFields": ""
+  },
+  "contactUs": {
+      "hideEmail": false
+  },
+  "logoSize": "",
+  "navigationBackground": "",
+  "whiteHeader": "",
+  "lightNav": "",
+  "displayName": "Elitsac Do It Best",
+  "domain": "elitsac",
+  "newOrderEmails": "brad.bliss@elitsac.com",
+  "contactEmail": "brad.bliss@elitsac.com",
+  "company": "doitbest",
+  "navigation": [
+      {
+          "name": "home"
+      },
+      {
+          "name": "departments"
+      },
+      {
+          "name": "brands"
+      },
+      {
+          "name": "About Us",
+          "align": "right"
+      }
+  ],
+  "demo": false,
+  "homepageBanner": "",
+  "search": {
+      "checkboxFilters": ""
+  },
+  "timezone": "",
+  "meta": {
+      "description": "We have some of the best selections of products at great prices! Our friendly website is here to assist you with all of your purchasing needs. Feel free to contact us if you have any questions!",
+      "loginDescription": "Get discounts & savings when you register for an account today!",
+      "mainImage": "",
+      "loginTitle": ""
+  },
+  "directory": "www-elitsac",
+  "overrideSubscribeImage": "",
+  "tax_rate": "",
+  "adminNavigation": "",
+  "showPhoneInNavigation": "",
+  "emailNavLink": "",
+  "onlyFeatured": "",
+  "navigationLayout": "",
+  "aboutUsLocations": "",
+  "customLayout": "",
+  "showAdvancedSetting": "",
+  "principles": "",
+  "registrationOptions": {
+      "companyInput": "",
+      "hideFromHeader": ""
+  },
+  "locationData": {
+      "Millhouse": "",
+      "Wildey": ""
+  },
+  "testKey": "",
+  "business": "",
+  "authData": "",
+  "aboutUsEmails": "",
+  "logoMaxheight": "",
+  "undefined": ""
+}
+                    

@@ -1,0 +1,105 @@
+{
+  "businessSlug": "R6BTP8LH8GA3E4ZC",
+  "stripePublishable": "pk_test_SoQebsTMOLR2iExxLINSedwP",
+  "businessName": "Steve Land",
+  "favicon": "https://storage.googleapis.com/content.ezadtv.com/2020/05/04/5eb052231f68a_favicon-32x322.png",
+  "colors": {
+    "primary": "#7d5ae6",
+    "secondary": "#404E4D",
+    "text": "#2f3540",
+    "background": "#F7F7F7",
+    "header": "#fff",
+    "navigation": "#fff",
+    "priceColor": "#81b214",
+    "promoPriceColor": "#ff0000"
+  },
+  "layout": "default",
+  "font": "Roboto",
+  "logo": "https://storage.googleapis.com/content.ezadtv.com/2020/05/04/5eb0554903c0e_image1.png",
+
+  "logoLink": "",
+  "subscribeBannerImage": "url(https://storage.googleapis.com/content.ezadtv.com/2020/05/04/5eb053102032e_Lowville.jpg)",
+  "buyingFromAlert": {
+    "background": "primary",
+    "textColor": "white",
+    "visible": false
+  },
+  "homeAlert": {
+    "text": "You are shopping for Curbside Pickup. To place a Delivery order <a href='https://agwaycapecod.com/delivery-order' target='_blank'>Click Here</a>",
+    "background": "homeAlertBackground",
+    "textColor": "primary",
+    "visible": false,
+    "fontSize": 17,
+    "fontWeight" : "bolder"
+  },
+  "text": {
+    "forRental": "In-Store Rental Equipment",
+    "inStore": "Curbside",
+    "specialOrderWarning": "Special Order From Vendor",
+    "outOfStock": "",
+    "noRentalItems": "There are no rental items",
+    "specialOrderTitle": "Special Order May Be Required",
+    "specialOrderText": "Subject to availability and seasonality from suppliers. If we cannot get it, you will be notified and refunded.",
+    "trademark": "All product and company names are trademarks™ or registered® trademarks of their respective holders. Use of them does not imply any affiliation with or endorsement by them.",
+    "extraProductMessage": "For bulk pricing, please call us at <a href=\"tel:305-532-3447\">305-532-3447</a>."
+  },
+  "footer": {
+    "links": [
+      {
+        "name": "Return Policy",
+        "link": ""
+      }
+    ]
+  },
+  "products": {
+    "filterShowOutOfStock": true,
+    "inventoryItemsMin": 0,
+    "itemsPerPage": 48,
+    "showVideos": false,
+    "showDescription": true,
+    "showSimilarProducts": false,
+    "showTopBrandProducts": false,
+    "showSimilarProductsByProduct": false,
+    "showQtyInWidgets": true,
+    "hideReg": false,
+    "sortOptions": [
+      {"value": "relevancy", "text": "Relevancy"},
+      {"value": "price-desc", "text": "Price High to Low"},
+      {"value": "price-asc", "text": "Price Low to High"},
+      {"value": "latest", "text": "New Arrivals"},
+      {"value": "title-asc", "text": "Alphabetical"}
+    ],
+    "defaultSorting": "relevancy"
+  },
+  "departments": {
+    "defaultSorting": "relevancy"
+  },
+  "brands": {
+    "defaultSorting": "relevancy",
+    "capitalize": true
+  },
+  "cart": {
+    "allowSavedCarts": true,
+    "enableDeliveryDate": true,
+    "rewardMembers": false,
+    "specialOrderMessage": "Special order May Be Required",
+    "specialOrderDisclaimer": "Subject to Availability and seasonality from suppliers. If we cannot get it, you will be notified and refunded.",
+    "specialOrderMessageTooltip": "You will receive shipping information over email within the next business day",
+    "empty": "Cart is empty. Browse the website and add the things you like!",
+    "deliveryDisclaimer": "",
+    "promos": true,
+    "deliveryZipsAllowed": [48768, 48746, 48744],
+    "taxJar": true,
+    "hideTax": true,
+    "hideDeliveryZipcode": true,
+    "distanceModal": true
+  },
+  "admin": {
+    "showStats": true,
+    "showOrderLocationFilters": true,
+    "showContractors": false
+  },
+  "showAdvancedSetting": true,
+  "showConsultationReport": true
+
+}

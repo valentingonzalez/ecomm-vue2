@@ -1,0 +1,174 @@
+{
+    "businessSlug": "G6Z9asdfj839ADfj",
+    "stripePublishable": "pk_test_SoQebsTMOLR2iExxLINSedwP",
+    "stripeLive": "",
+    "businessName": "Gregg Farm Services",
+    "favicon": "https:\/\/storage.googleapis.com\/content.ezadtv.com\/2020\/05\/18\/5ec2da1e82e60_favicon-32x328.png",
+    "colors": {
+        "primary": "#0054a0",
+        "secondary": "#f8a35a",
+        "text": "#3a3b3d",
+        "background": "#F2F2F2",
+        "header": "",
+        "headerLinkColor": "",
+        "headerText": "",
+        "navigation": "#fff",
+        "priceColor": "",
+        "promoPriceColor": ""
+    },
+    "layout": "default",
+    "font": "Raleway",
+    "logo": "https:\/\/storage.googleapis.com\/content.ezadtv.com\/2020\/05\/18\/5ec2dab4a7f58_logo8.png",
+    "subscribeBannerImage": "url('https:\/\/storage.googleapis.com\/content.ezadtv.com\/2020\/05\/22\/5ec801b2cd85b_GFSShop.jpg')",
+    "buyingFromAlert": {
+        "background": "white",
+        "textColor": "text",
+        "visible": ""
+    },
+    "homeAlert": {
+        "visible": "",
+        "text": "blabla <a href='#'>link<\/a>",
+        "background": "primary",
+        "textColor": "white",
+        "fontSize": "",
+        "fontWeight": ""
+    },
+    "text": {
+        "featuredProductText": "",
+        "inStore": "Curbside",
+        "specialOrderWarning": "",
+        "outOfStock": "Order for 3-5 day shipping to our store",
+        "noRentalItems": "There are no rental items",
+        "specialOrderTitle": "",
+        "specialOrderText": "",
+        "trademark": "All product and company names are trademarks\u2122 or registered\u00ae trademarks of their respective holders. Use of them does not imply any affiliation with or endorsement by them.",
+        "checkAvailability": "Call Your Local Store For Availability",
+        "emptyCart": "Cart is empty. Browse the website and add the things you like!",
+        "cartDeliveryDisclaimer": "Get stuff done around the house! We will bring it out for five bucks.<br>We are all in this together!",
+        "forRental": "In-Store Rental Equipment",
+        "promoQuantityHeader": ""
+    },
+    "footer": {
+        "links": ""
+    },
+    "products": {
+        "inventoryItemsMin": "",
+        "itemsPerPage": 48,
+        "showVideos": "1",
+        "showDescription": "1",
+        "showSimilarProducts": "1",
+        "showQtyInWidgets": false,
+        "sortOptions": "[{\"value\":\"relevancy\",\"text\":\"Relevancy\"},{\"value\":\"price-desc\",\"text\":\"Price High to Low\"},{\"value\":\"price-asc\",\"text\":\"Price Low to High\"},{\"value\":\"latest\",\"text\":\"New Arrivals\"},{\"value\":\"title-asc\",\"text\":\"Alphabetical\"}]",
+        "defaultSorting": "relevancy",
+        "hideReg": "",
+        "filterShowOutOfStock": false,
+        "inStockProductRename": "",
+        "hideUpc": "",
+        "hideInStockCheckbox": "1",
+        "disableOrdering": "",
+        "showThreeFiveDays": "",
+        "capitalizeTitle": "",
+        "regularPriceText": "",
+        "currencyPrefix": "",
+        "useOriginalTitle": "",
+        "hidePriceOutOfStock": ""
+    },
+    "departments": {
+        "defaultSorting": "relevancy",
+        "skipAutoFormat": ""
+    },
+    "brands": {
+        "defaultSorting": "relevancy",
+        "showImages": ""
+    },
+    "cart": {
+        "rewardMembers": "",
+        "hideAddress": "",
+        "specialOrderMessage": "Special order May Be Required",
+        "specialOrderDisclaimer": "Subject to Availability and seasonality from suppliers. If we cannot get it, you will be notified and refunded.",
+        "specialOrderBadge": "",
+        "specialOrderMessageTooltip": "You will receive shipping information over email within the next business day",
+        "empty": "Cart is empty. Browse the website and add the things you like!",
+        "submittedOrderImage": "",
+        "confirmationText": "",
+        "deliveryDisclaimer": "",
+        "taxJar": "1",
+        "hideShipping": "",
+        "showSpecialOrderDays": "",
+        "enableDeliveryDate": "",
+        "promos": "",
+        "allowSpecialOrderVendors": "",
+        "taxDisclaimer": "",
+        "additionalCountries": "",
+        "showCardProviders": "",
+        "taxExemptionCheck": "",
+        "discountEligibilityCheck": ""
+    },
+    "admin": {
+        "showStats": "1",
+        "showOrderLocationFilters": "1",
+        "orders": "",
+        "hideSecondStep": "",
+        "RSCOptions": "",
+        "showContractors": ""
+    },
+    "testimonials": {
+        "1": "",
+        "2": ""
+    },
+    "liveChatCode": "",
+    "storeNumber": "",
+    "logoMaxWidth": "",
+    "logoMaxHeight": "",
+    "signup": {
+        "extraFields": ""
+    },
+    "contactUs": {
+        "hideEmail": ""
+    },
+    "logoSize": "",
+    "navigationBackground": "",
+    "whiteHeader": "",
+    "lightNav": "",
+    "displayName": "Gregg Farm Services",
+    "domain": "greggfarmservices",
+    "newOrderEmails": "wendy@greggfarmservices.com",
+    "contactEmail": "wendy@greggfarmservices.com",
+    "company": "doitbest",
+    "navigation": [
+        {
+            "name": "home"
+        },
+        {
+            "name": "departments"
+        },
+        {
+            "name": "brands"
+        },
+        {
+            "name": "About Us",
+            "align": "right"
+        }
+    ],
+    "demo": false,
+    "homepageBanner": "",
+    "search": {
+        "checkboxFilters": ""
+    },
+    "timezone": "",
+    "meta": {
+        "description": "",
+        "loginDescription": "",
+        "mainImage": "",
+        "loginTitle": ""
+    },
+    "directory": "",
+    "overrideSubscribeImage": "",
+    "tax_rate": "",
+    "adminNavigation": "",
+    "showPhoneInNavigation": "",
+    "emailNavLink": "",
+    "onlyFeatured": "",
+    "navigationLayout": "",
+    "aboutUsLocations": ""
+}

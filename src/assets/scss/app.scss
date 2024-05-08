@@ -1,0 +1,74 @@
+@font-face {
+    font-family: "Helvetica";
+    src: local("Helvetica"), url(/fonts/helvetica.ttf) format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Helvetica";
+    src: local("Helvetica Oblique"), local("helvetica-oblique"), url(/fonts/helvetica-oblique.ttf) format('truetype');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Helvetica";
+    src: local("Helvetica Bold"), local("helvetica-bold"), url(/fonts/helvetica-bold.ttf) format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Helvetica";
+    src: local("Helvetica Bold Oblique"), local("helvetica-bold-oblique"), url(/fonts/helvetica-bold-oblique.ttf) format('truetype');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Poppins";
+    src: local("Poppins-Light"), local("Poppins-Light"), url(/fonts/Poppins-Light.ttf) format('truetype');
+    font-weight: lighter;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Poppins";
+    src: local("Poppins-Regular"), local("Poppins-Regular"), url(/fonts/Poppins-Regular.ttf) format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Poppins";
+    src: local("Poppins-Medium"), local("Poppins-Medium"), url(/fonts/Poppins-Medium.ttf) format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Poppins";
+    src: local("Poppins-Bold"), local("Poppins-Bold"), url(/fonts/Poppins-Bold.ttf) format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@import
+'~video.js/dist/video-js.css',
+'~vue-video-player/src/custom-theme.css',
+'~swiper/dist/css/swiper.css',
+'~bootstrap/scss/bootstrap.scss',
+'~bootstrap-vue/dist/bootstrap-vue.min.css',
+'~vue-multiselect/dist/vue-multiselect.min.css',
+'style.scss',
+'vue-good-table.scss',
+'truevalue.scss';

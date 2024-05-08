@@ -1,0 +1,97 @@
+{
+  "steps": [
+    {
+      "name": "Landing Page",
+      "text": "Let’s start with your homepage. This will be the center of your site.",
+      "url": "/"
+    },
+    {
+      "name": "Product Editor Page",
+      "text": "This is the Product Editor Page.<br>This page will enable you to edit products.<br>Enter in the product SKU or UPC to edit.",
+      "video": {
+        "cover": "/images/cover-product-editor.jpg",
+        "url": "https://storage.googleapis.com/content.ezadtv.com/2024/03/06/65e8c14d98b88_Products_Editor.m4v"
+      },
+      "url": "/admin/settings/product-editor/random"
+    },
+    {
+      "name": "Sub Accounts",
+      "text": "This page will let you add in employees.<br>Click <a href=\"#\" class=\"link font-weight-bold\">Create Account</a> to get started.",
+      "url": "/admin/settings/sub-accounts"
+    },
+    {
+      "name": "Create New Account",
+      "text": "This is where you will be entering the details.<br>Will this Employee be creating an order? <a href=\"#\" class=\"link font-weight-bold\">Click here</a>",
+      "url": "/admin/settings/sub-accounts/new"
+    },
+    {
+      "name": "Bank Settings",
+      "text": "The bank settings will handle all your transactions. <br>When you are ready to go live click <a href=\"#\" class=\"link font-weight-bold\">Enable Stripe</a>.<br>Stripe is a 3rd party system we use. ",
+      "url": "/admin/settings/bank"
+    },
+    {
+      "name": "Data Report",
+      "text": "The Data Report is the report card for all your content.<br><br>This page shows how good your ecommerce site is doing with individual aspects.",
+      "url": "/admin/settings/report"
+    },
+    {
+      "name": "Custom Pages",
+      "text": "In this page you can modify the navigation bar that shows up on your homepage.<br><br><a href=\"#\" class=\"link font-weight-bold\">Click here to modify</a>.",
+      "video": {
+        "cover": "/images/cover-custom-pages.jpg",
+        "url": "https://storage.googleapis.com/content.ezadtv.com/2024/01/23/65afe6b8630b5_Custom_Pages.mov"
+      },
+      "url": "/admin/settings/pages"
+    },
+    {
+      "name": "Landing Page",
+      "text": "This page will show you how your homepage is viewed.<br><br>Customize different features on here.",
+      "video": {
+        "cover": "/images/cover-home-page-editor.jpg",
+        "url": "https://storage.googleapis.com/content.ezadtv.com/2024/03/06/65e8c56a0bac7_Homepage_Editor.m4v"
+      },
+      "url": "/admin/settings/widgets"
+    },
+    {
+      "name": "Department Mapping",
+      "text": "This page allows you to manage your departments, classes & finelines.<br><br>You can group multiple categories into one alias which will display on your E-commerce website. EZ-commerce is based on a 3 level max taxonomy.",
+      "video": {
+        "cover": "/images/cover-department-mapping.jpg",
+        "url": "https://storage.googleapis.com/content.ezadtv.com/2024/03/06/65e8be93202f7_Departments_Mapping.m4v"
+      },
+      "url": "/admin/settings/department-mapping"
+    },
+    {
+      "name": "About Us",
+      "text": "This page lets you customize your about us section.<br>Make your page as personable as you’d like!",
+      "url": "/admin/settings/about-us"
+    },
+    {
+      "name": "Orders",
+      "text": "This page will let you view all orders placed.<br>There are different categories you can go through.",
+      "video": {
+        "cover": "/images/cover-basics-of-ordering.jpg",
+        "url": "https://storage.googleapis.com/content.ezadtv.com/2024/01/23/65afe5ff6f5d0_Basics_of_Ordering.mp4"
+      },
+      "url": "/admin/orders"
+    },
+    {
+      "name": "Transactional Emails",
+      "text": "This page lets you manage all the emails you will send through you business.<br><br>In this page you can customize each email. ",
+      "video": {
+        "cover": "/images/cover-transactional-emails.jpg",
+        "url": "https://storage.googleapis.com/content.ezadtv.com/2024/01/09/659d9cc5cf510_Transactional_Emails.mov"
+      },
+      "url": "/admin/settings/transactional-emails"
+    },
+    {
+      "name": "Stats & Analytics",
+      "text": "This page gathers all the data of the stats and analytics from your ecommerce site.<br><br>On this page you can view items recently added to carts, abandoned carts and items, etc.",
+      "video": {
+        "cover": "/images/cover-stats-tutorial.jpg",
+        "url": "https://storage.googleapis.com/content.ezadtv.com/2024/01/09/659d9d9b922cb_Stats_Analytics.mov"
+      },
+      "url": "/admin/stats"
+    }
+  ]
+}

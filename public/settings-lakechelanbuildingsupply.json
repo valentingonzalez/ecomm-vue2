@@ -1,0 +1,224 @@
+{
+    "businessSlug": "7WYGNNSHENRTAJPC",
+    "stripePublishable": "pk_test_SoQebsTMOLR2iExxLINSedwP",
+    "stripeLive": "",
+    "businessName": "Lake Chelan Building Supply",
+    "favicon": "https://storage.googleapis.com/content.ezadtv.com/2021/02/02/6019a31eb8fdb_favicon.ico",
+    "colors": {
+        "primary": "#d0021b",
+        "secondary": "#f5973e",
+        "text": "#2f3540",
+        "background": "#F7F7F7",
+        "header": "#000",
+        "headerLinkColor": "",
+        "headerText": "",
+        "navigation": "#000",
+        "priceColor": "",
+        "promoPriceColor": ""
+    },
+    "layout": "gerretsen",
+    "logoLink": "https://www.lakechelanbuildingsupply.com/",
+    "font": "Open Sans",
+    "logo": "https://storage.googleapis.com/content.ezadtv.com/2021/02/22/6033ff645892a_lake-chelan-logo-large.png",
+    "subscribeBannerImage": "url('https:\/\/storage.googleapis.com\/content.ezadtv.com\/2020\/06\/01\/5ed5530c847ce_Generic.jpg')",
+    "buyingFromAlert": {
+        "background": "",
+        "textColor": "",
+        "visible": ""
+    },
+    "homeAlert": {
+        "visible": "",
+        "text": "",
+        "background": "",
+        "textColor": "",
+        "fontSize": "",
+        "fontWeight": ""
+    },
+    "text": {
+        "featuredProductText": "",
+        "inStore": "In-Store",
+        "specialOrderWarning": "Special Order From Vendor",
+        "outOfStock": "Order for 3-5 day shipping to our store",
+        "noRentalItems": "There are no rental items",
+        "specialOrderTitle": "Special Order May Be Required",
+        "specialOrderText": "Subject to availability and seasonality from suppliers. If we cannot get it, you will be notified and refunded.",
+        "trademark": "All product and company names are trademarks\u2122 or registered\u00ae trademarks of their respective holders. Use of them does not imply any affiliation with or endorsement by them.",
+        "checkAvailability": "Call Your Local Store For Availability",
+        "emptyCart": "Cart is empty. Browse the website and add the things you like!",
+        "cartDeliveryDisclaimer": "",
+        "forRental": "",
+        "promoQuantityHeader": "",
+        "specialOrderTextByLocation": "",
+        "deliveryConfirmationText": "",
+        "vendorInStockText": "",
+        "vendorSpecialOrderText": "",
+        "vendorOutOfStockText": "",
+        "catalogInStockText": "",
+        "outOfStockText": ""
+    },
+    "footer": {
+        "links": "",
+        "facebookPage": "https://www.facebook.com/Lake-Chelan-Building-Supply-175093199811",
+        "instagramPage": "https://www.instagram.com/lakechelanbuildingsupply",
+        "showSslLogo": "",
+        "locations": [
+            {
+                "address": "585 E. Wapato Way",
+                "city": "Manson",
+                "state": "WA",
+                "zip": "98831",
+                "phone": "509.687.9595",
+                "googleMapsUrl": "https://goo.gl/maps/BPqAL5owXHLrbFAv8",
+                "storeInfoUrl": "https://www.lakechelanbuildingsupply.com/manson/"
+            },
+            {
+                "address": "155 Chelan Falls Road",
+                "city": "Chelan",
+                "state": "WA",
+                "zip": "98816",
+                "phone": "509.682.4017",
+                "googleMapsUrl": "https://goo.gl/maps/sWPFP9DYD5MTV7jz8",
+                "storeInfoUrl": "https://www.lakechelanbuildingsupply.com/chelan/"
+            }
+        ]
+    },
+    "products": {
+        "showDepartmentDropdownInSearch": true,
+        "capitalizeTitle": true,
+        "hideUpc": true,
+        "inventoryItemsMin": 0,
+        "itemsPerPage": 48,
+        "showVideos": true,
+        "showDescription": true,
+        "showSimilarProducts": true,
+        "showQtyInWidgets": true,
+        "sortOptions": [
+            {"value": "relevancy", "text": "Relevancy"},
+            {"value": "price-desc", "text": "Price High to Low"},
+            {"value": "price-asc", "text": "Price Low to High"},
+            {"value": "latest", "text": "New Arrivals"},
+            {"value": "title-asc", "text": "Alphabetical"}
+        ],
+        "defaultSorting": "relevancy"
+    },
+    "departments": {
+      "defaultSorting": "relevancy"
+    },
+    "brands": {
+      "defaultSorting": "relevancy"
+    },
+    "cart": {
+        "rewardMembers": false,
+        "hideAddress": false,
+        "specialOrderMessage": "Special order May Be Required",
+        "specialOrderDisclaimer": "Subject to Availability and seasonality from suppliers. If we cannot get it, you will be notified and refunded.",
+        "specialOrderBadge": "",
+        "specialOrderMessageTooltip": "You will receive shipping information over email within the next business day",
+        "empty": "Cart is empty. Browse the website and add the things you like!",
+        "submittedOrderImage": "",
+        "confirmationText": "",
+        "deliveryDisclaimer": "",
+        "taxJar": "",
+        "hideShipping": "",
+        "showSpecialOrderDays": "",
+        "enableDeliveryDate": "",
+        "promos": "",
+        "allowSpecialOrderVendors": "",
+        "taxDisclaimer": "",
+        "additionalCountries": "",
+        "showCardProviders": "",
+        "taxExemptionCheck": "",
+        "discountEligibilityCheck": "",
+        "hideVendorInSpecialOrder": "",
+        "refundInfo": "",
+        "deliveryZipsAllowed": "",
+        "allowedZips": "",
+        "disclaimer": "",
+        "allowSavedCarts": ""
+    },
+    "admin": {
+        "showStats": true,
+        "showOrderLocationFilters": true,
+        "orders": "",
+        "hideSecondStep": "",
+        "RSCOptions": "",
+        "showContractors": "",
+        "orderTimeZone": ""
+    },
+    "testimonials": {
+        "1": "",
+        "2": ""
+    },
+    "liveChatCode": "",
+    "storeNumber": "",
+    "logoMaxWidth": "",
+    "logoMaxHeight": "120px",
+    "signup": {
+        "extraFields": ""
+    },
+    "contactUs": {
+        "hideEmail": false
+    },
+    "logoSize": "",
+    "navigationBackground": "",
+    "whiteHeader": "",
+    "lightNav": "",
+    "displayName": "Lake Chelan Building Supply",
+    "domain": "lakechelanbuildingsupply",
+    "newOrderEmails": "hoodriver@tumalum.net",
+    "contactEmail": "hoodriver@tumalum.net",
+    "company": "doitbest",
+    "navigation": [
+        {
+            "name": "home"
+        },
+        {
+            "name": "departments"
+        },
+        {
+            "name": "brands"
+        },
+        {
+            "name": "About Us",
+            "align": "right"
+        }
+    ],
+    "demo": false,
+    "homepageBanner": "",
+    "search": {
+        "checkboxFilters": ""
+    },
+    "timezone": "",
+    "meta": {
+        "description": "We have some of the best selections of products at great prices! Our friendly website is here to assist you with all of your purchasing needs. Feel free to contact us if you have any questions!",
+        "loginDescription": "Get discounts & savings when you register for an account today!",
+        "mainImage": "",
+        "loginTitle": ""
+    },
+    "directory": "www-lakechelanbuildingsupply",
+    "overrideSubscribeImage": "",
+    "tax_rate": "",
+    "adminNavigation": "",
+    "showPhoneInNavigation": "",
+    "emailNavLink": "",
+    "onlyFeatured": "",
+    "navigationLayout": "secondary",
+    "aboutUsLocations": "",
+    "customLayout": true,
+    "showAdvancedSetting": "",
+    "principles": "",
+    "registrationOptions": {
+        "companyInput": "",
+        "hideFromHeader": ""
+    },
+    "locationData": {
+        "Millhouse": "",
+        "Wildey": ""
+    },
+    "testKey": "",
+    "business": "",
+    "authData": "",
+    "aboutUsEmails": "",
+    "logoMaxheight": "",
+    "undefined": ""
+}

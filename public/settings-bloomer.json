@@ -1,0 +1,83 @@
+{
+  "businessSlug": "G4Ds3V2H11ELOP12",
+  "businessName": "Bloomer Hardware",
+  "stripePublishable": "pk_live_TL6sTBk3kqmpiJQRqbn82Otc",
+  "stripeLive": false,
+  "favicon": "https://storage.googleapis.com/content.ezadtv.com/2020/05/11/5eb9bbd497308_favicon-16x16.png",
+  "colors": {
+    "primary": "#02638f",
+    "secondary": "#f7f4ea",
+    "text": "#2f3540",
+    "background": "#F2F2F2",
+    "navigation": "primary"
+  },
+  "layout": "default",
+  "font": "Roboto",
+  "logo": "https://storage.googleapis.com/content.ezadtv.com/2020/05/11/5eb9bbfbb5f2c_logo6.png",
+  "subscribeBannerImage": "url('https://storage.googleapis.com/content.ezadtv.com/2020/02/03/5e388f9cd5246_BloomerHardware.jpg')",
+  "buyingFromAlert": {
+    "background": "white",
+    "textColor": "text",
+    "visible": false
+  },
+  "homeAlert": {
+    "text": "blabla",
+    "background": "secondary",
+    "textColor": "white",
+    "visible": false
+  },
+  "text": {
+    "forRental": "In-Store Rental Equipment",
+    "inStore": "Curbside",
+    "checkAvailability": "Call Your Local Store For Availability",
+    "outOfStock": "This product is out of stock",
+    "noRentalItems": "There are no rental items",
+    "emptyCart": "Cart is empty. Browse the website and add the things you like!",
+    "trademark": "All product and company names are trademarks™ or registered® trademarks of their respective holders. Use of them does not imply any affiliation with or endorsement by them."
+  },
+  "footer": {
+    "links": [
+      {
+        "name": "",
+        "link": ""
+      }
+    ]
+  },
+  "products": {
+    "inventoryItemsMin": 0,
+    "itemsPerPage": 48,
+    "showVideos": true,
+    "showDescription": true,
+    "showSimilarProducts": true,
+    "showQtyInWidgets": true,
+    "sortOptions": [
+      {"value": "relevancy", "text": "Relevancy"},
+      {"value": "price-desc", "text": "Price High to Low"},
+      {"value": "price-asc", "text": "Price Low to High"},
+      {"value": "latest", "text": "New Arrivals"},
+      {"value": "title-asc", "text": "Alphabetical"}
+    ],
+    "defaultSorting": "relevancy"
+  },
+  "departments": {
+    "defaultSorting": "relevancy"
+  },
+  "brands": {
+    "defaultSorting": "relevancy"
+  },
+  "cart": {
+    "rewardMembers": false,
+    "allowSpecialOrderVendors": [2020],
+    "deliveryDisclaimer": "* Special Ordered items/out of stock items should arrive on our next weekly truck.<br>* Weekly delivery is Thursday’s, subject to change if holiday is within week.<br>* Orders placed after Tuesday @ 3pm will arrive on the following weeks truck."
+  },
+  "admin": {
+    "showStats": true,
+    "showOrderLocationFilters": true
+  },
+  "navigation": [
+    { "name": "home" },
+    { "name": "departments" },
+    { "name": "brands"},
+    { "name": "About Us", "align": "right" }
+  ]
+}

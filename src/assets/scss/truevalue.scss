@@ -1,0 +1,65 @@
+#app.truevalue-site {
+  nav.navbar.main-nav {
+    .navbar-nav {
+      li.nav-item {
+        .nav-link {
+          font-weight: bold !important;
+          text-transform: uppercase !important;
+          font-size: 13px !important;
+          &::after {
+            border-bottom: none !important;
+          }
+          > a {
+            color: black !important;
+            &:hover {
+
+            }
+          }
+        }
+        a.nav-link:hover {
+
+          text-decoration: underline;
+        }
+      }
+    }
+  }
+  .main-banner {
+    background-color: #000;
+  }
+
+  .admin-header {
+    .nav-menu {
+      background: #2f2f2f;
+      position: relative;
+      z-index: 10;
+      .menu-bar {
+        ul {
+          li {
+            a {
+              cursor: pointer;
+              color: #fff;
+              opacity: .7;
+              font-size: 0.875rem;
+              font-weight: 400;
+              text-transform: capitalize;
+              padding: 0 30px 0 0;
+            }
+            &:hover,
+            &:focus,
+            &.router-link-active {
+              opacity: 1;
+              color: #fff;
+            }
+            &.router-link-active {
+              cursor: default;
+              &::after {
+                border-color: #fff;
+                opacity: 1;
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,395 @@
+{
+    "businessSlug": "R6BTP8LH8GA3E4ZC",
+    "stripePublishable": "pk_test_SoQebsTMOLR2iExxLINSedwP",
+    "stripeLive": "",
+    "businessName": "Ecommerce Dev2",
+    "favicon": "https://storage.googleapis.com/content.ezadtv.com/2020/05/04/5eb052231f68a_favicon-32x322.png",
+    "colors": {
+        "primary": "#000000",
+        "secondary": "#404E4D",
+        "text": "#2f3540",
+        "background": "#ffffff",
+        "header": "#fff",
+        "headerLinkColor": "#d0021b",
+        "headerText": "#ffffff",
+        "navigation": "#fff",
+        "priceColor": "#81b214",
+        "promoPriceColor": "#ff0000",
+        "storeColor": ""
+    },
+    "layout": "default",
+    "font": "Inter",
+    "logo": "https://storage.googleapis.com/content.ezadtv.com/2020/10/09/5f80d49919bc6_logo.png",
+    "subscribeBannerImage": "url(https:\/\/storage.googleapis.com\/content.ezadtv.com\/2020\/05\/04\/5eb053102032e_Lowville.jpg)",
+    "buyingFromAlert": {
+        "background": "primary",
+        "textColor": "white",
+        "visible": ""
+    },
+    "homeAlert": {
+        "visible": true,
+        "text": "You are shopping for Curbside Pickup!! To place a Delivery order <a href='https://agwaycapecod.com/delivery-order' target='_blank'>Click Here</a>",
+        "background": "warning",
+        "textColor": "dark",
+        "fontSize": 18,
+        "fontWeight": "100",
+        "allowOverrideEvenBasicPlan": ""
+    },
+    "text": {
+        "featuredProductText": "",
+        "inStore": "Curbside",
+        "specialOrderWarning": "Special Order From Vendor",
+        "outOfStock": "Order for 3-5 day shipping to our store",
+        "noRentalItems": "There are no rental items",
+        "specialOrderTitle": "Special Order May Be Required",
+        "specialOrderText": "Subject to availability and seasonality from suppliers. If we cannot get it, you will be notified and refunded.",
+        "trademark": "All product and company names are trademarks™ or registered® trademarks of their respective holders. Use of them does not imply any affiliation with or endorsement by them.",
+        "checkAvailability": "Call Your Local Store For Availability",
+        "emptyCart": "Cart is empty. Please add a product to continue.",
+        "cartDeliveryDisclaimer": "Get stuff done around the house! We will bring it out for five bucks.<br>We are all in this together!",
+        "forRental": "In-Store Rental Equipment",
+        "promoQuantityHeader": "",
+        "specialOrderTextByLocation": [
+            {
+                "id": "21",
+                "text": "Place your order by 3:00PM on Saturday to receive by Tuesday."
+            },
+            {
+                "id": "365",
+                "text": "Place your order by 3:00PM on Monday to receive by Thursday."
+            }
+        ],
+        "deliveryConfirmationText": "",
+        "vendorInStockText": "",
+        "vendorOutOfStockText": "",
+        "catalogInStockText": "",
+        "vendorSpecialOrderText": "",
+        "outOfStockText": "",
+        "extraProductMessage": "",
+        "inStockText": "",
+        "customPurchaseTitle": "",
+        "customPurchaseText": "",
+        "tvCustomQtyMessage": "",
+        "tvCustomAvailableMessage": "",
+        "specialOrderFee": "AML/SAMSON Freight Fee",
+        "onlyXLeftText": ""
+    },
+    "footer": {
+        "links": [
+            {
+                "name": "Return Policy",
+                "link": ""
+            }
+        ],
+        "facebookPage": "",
+        "showSslLogo": "",
+        "instagramPage": "",
+        "locations": null
+    },
+    "products": {
+        "inventoryItemsMin": 4,
+        "itemsPerPage": 48,
+        "showVideos": false,
+        "showDescription": true,
+        "showSimilarProducts": 1,
+        "showQtyInWidgets": true,
+        "sortOptions": [
+            {
+                "value": "relevancy",
+                "text": "Relevancy"
+            },
+            {
+                "value": "price-desc",
+                "text": "Price High to Low"
+            },
+            {
+                "value": "price-asc",
+                "text": "Price Low to High"
+            },
+            {
+                "value": "latest",
+                "text": "New Arrivals"
+            },
+            {
+                "value": "title-asc",
+                "text": "Alphabetical"
+            }
+        ],
+        "defaultSorting": "relevancy",
+        "hideReg": false,
+        "filterShowOutOfStock": true,
+        "inStockProductRename": "",
+        "hideUpc": true,
+        "hideInStockCheckbox": "",
+        "disableOrdering": false,
+        "showThreeFiveDays": "",
+        "capitalizeTitle": false,
+        "regularPriceText": "",
+        "currencyPrefix": "",
+        "useOriginalTitle": "",
+        "hidePriceOutOfStock": "",
+        "disableSpecialOrdering": false,
+        "showTopBrandProducts": "",
+        "showSimilarProductsByProduct": "",
+        "showDepartmentDropdownInSearch": "",
+        "getQuoteSpecial": "",
+        "hideProductLocation": "",
+        "getQuoteEmail": "",
+        "hideProductUnit": "",
+        "hiddenPriceText": "",
+        "syncHandlePromos": true,
+        "showPartnerInventories": "",
+        "hideQuantity": "",
+        "alwaysShowProp65": "",
+        "widgetPromoLabel": "",
+        "singlePromoLabel": "",
+        "hideBrandFromTitle": "",
+        "hideOutOfStockItems": "",
+        "showUnitInventory": "",
+        "showOutOfStockItems": false,
+        "hideRentalPrices": "",
+        "hidePrice": "",
+        "alwaysShowProductLocation": "",
+        "showSpecs": false,
+        "disableSearchBar": ""
+    },
+    "departments": {
+        "defaultSorting": "relevancy",
+        "skipAutoFormat": "",
+        "multiLevel": "",
+        "sortOptions": "",
+        "hideHeadersInMenu": ""
+    },
+    "brands": {
+        "defaultSorting": "price-asc",
+        "showImages": false,
+        "sortAlphabetical": "",
+        "capitalize": ""
+    },
+    "cart": {
+        "rewardMembers": true,
+        "hideAddress": true,
+        "specialOrderMessage": "Special order May Be Required",
+        "specialOrderDisclaimer": "Subject to Availability and seasonality from suppliers. If we cannot get it, you will be notified and refunded.",
+        "specialOrderBadge": "",
+        "specialOrderMessageTooltip": "You will receive shipping information over email within the next business day",
+        "empty": "Cart is empty. Browse the website and add the things you like!",
+        "submittedOrderImage": "https://storage.googleapis.com/content.ezadtv.com/2020/05/25/5ecc1ec85f63b_AdobeStock_109166883.jpeg",
+        "confirmationText": "<span style='color:green'>Success! Order Submitted<br>But WAIT! Don’t Leave the house just yet…</span><br><br><small>We’ll reach out soon to let you know your order is ready for pick up. <br>Order are generally ready for pickup within <u>25 hours</u>, but please look for the “ready-for-pickup” email notice prior to arriving to the store</small><br><br><dfn>For question regarding your order, please call the store you ordered from and be sure to have your order number ready.</dfn><br><span style='font-size:16px; color:green'>Thank you for shopping local with us!</span>",
+        "deliveryDisclaimer": "Delivery Disclaimer",
+        "taxJar": "1",
+        "hideShipping": false,
+        "showSpecialOrderDays": false,
+        "enableDeliveryDate": "1",
+        "promos": true,
+        "allowSpecialOrderVendors": [
+            2020
+        ],
+        "taxDisclaimer": "",
+        "additionalCountries": "",
+        "showCardProviders": "",
+        "taxExemptionCheck": "",
+        "discountEligibilityCheck": "",
+        "hideVendorInSpecialOrder": "",
+        "refundInfo": "",
+        "deliveryZipsAllowed": [
+            "48768",
+            "48746",
+            "48744"
+        ],
+        "allowedZips": {
+            "21": [
+                {
+                    "code": "48768",
+                    "fee": "0"
+                },
+                {
+                    "code": "48746",
+                    "fee": "0"
+                },
+                {
+                    "code": "48744",
+                    "fee": "0"
+                }
+            ],
+            "365": [
+                {
+                    "code": "48734",
+                    "fee": "0"
+                },
+                {
+                    "code": "48601",
+                    "fee": "0"
+                },
+                {
+                    "code": "48415",
+                    "fee": "0"
+                }
+            ]
+        },
+        "disclaimer": "",
+        "allowSavedCarts": "1",
+        "hideTax": "",
+        "hideDeliveryZipcode": "",
+        "cartModal": null,
+        "deferCapture": "",
+        "pickupDistanceLimit": 100,
+        "alwaysRequireAddress": "",
+        "showUnitPrice": "",
+        "distanceModal": "",
+        "showCheckoutCbLayout": "",
+        "hideUnitedStatesDeliveryOption": "",
+        "restrictedStatesForShipping": "",
+        "restrictedStatesMessage": "",
+        "allowRecurringOrders": true
+    },
+    "admin": {
+        "showStats": 1,
+        "showOrderLocationFilters": 1,
+        "orders": "",
+        "hideSecondStep": "",
+        "RSCOptions": "",
+        "showContractors": true,
+        "orderTimeZone": ""
+    },
+    "testimonials": {
+        "1": "",
+        "2": ""
+    },
+    "liveChatCode": "",
+    "storeNumber": "",
+    "logoMaxWidth": "200px",
+    "logoMaxHeight": "200px",
+    "signup": {
+        "extraFields": ""
+    },
+    "contactUs": {
+        "hideEmail": ""
+    },
+    "logoSize": "",
+    "navigationBackground": "",
+    "whiteHeader": "",
+    "lightNav": "",
+    "displayName": "Ecommerce Dev 12",
+    "domain": "steveland",
+    "newOrderEmails": "admin@steveland.com",
+    "contactEmail": "contactuss@steveland.com",
+    "company": "truevalue",
+    "navigation": [
+        {
+            "name": "home",
+            "path": "/home",
+            "components": {}
+        },
+        {
+            "name": "departments",
+            "path": "/departments",
+            "components": {}
+        },
+        {
+            "name": "brands",
+            "path": "/brands",
+            "components": {}
+        },
+        {
+            "name": "About Us",
+            "align": "right",
+            "path": "/about-us",
+            "components": {}
+        }
+    ],
+    "demo": false,
+    "homepageBanner": "",
+    "search": {
+        "checkboxFilters": ""
+    },
+    "timezone": "",
+    "meta": {
+        "description": " Description USMAN",
+        "loginDescription": "Get discounts & savings when you register for an account today!",
+        "mainImage": "",
+        "loginTitle": "USMAN TITLE"
+    },
+    "directory": "www-vassartruevaluehardware",
+    "overrideSubscribeImage": "",
+    "tax_rate": "",
+    "adminNavigation": false,
+    "showPhoneInNavigation": "",
+    "emailNavLink": "",
+    "onlyFeatured": "",
+    "navigationLayout": "",
+    "aboutUsLocations": "",
+    "customLayout": "",
+    "showAdvancedSetting": 1,
+    "principles": "",
+    "registrationOptions": {
+        "companyInput": "",
+        "hideFromHeader": ""
+    },
+    "locationData": {
+        "Millhouse": "",
+        "Wildey": ""
+    },
+    "testKey": "",
+    "business": "",
+    "authData": "",
+    "aboutUsEmails": "",
+    "logoLink": "",
+    "showConsultationReport": "",
+    "dynamicMap": "",
+    "customCss": "",
+    "extraProductMessage": "",
+    "styles": {
+        "vendorInStockClasses": "",
+        "catalogInStockClasses": ""
+    },
+    "logoMaxheight": "",
+    "undefined": "#000000",
+    "specialPricePositionBottom": "",
+    "aboutUsTitle": "",
+    "aboutUsTitleHidden": "",
+    "showLocationPhoneInNav": false,
+    "business_telephone": "",
+    "business_address": "",
+    "business_city": "",
+    "business_state": "",
+    "business_country": "",
+    "ecommercePlan": "null",
+    "tvRDC": "",
+    "dibRSC": "",
+    "e2Warehouse": "",
+    "logoPrint": "",
+    "business_zipcode": "",
+    "business_email": "",
+    "rentals": {
+        "disableLocationSelection": true,
+        "allowDeliveryLocations": true,
+        "hideFulfillmentOptions": "",
+        "rentalContactText": "",
+        "disableContactForm": "",
+        "rentalInStockText": "",
+        "disclaimer": "Additional deposit and taxes will be collected at the time of rental. <br /> Above pricing is for equipment rental only. Trailer for transport, if required, is not included.",
+        "submitFormDisclaimerTop": "This is an equipment rental request form, not the actual reservation. A representative will respond in a few hours or if after hours the start of the next business day. <br/>Reservation must be made in the name of the person that will be picking up or receiving equipment. The person reserving equipment must present a valid credit card and State ID.",
+        "submitFormDisclaimerBottom": "Trailer for transport, if required, is not included."
+    },
+    "aboutUs": {
+        "hideContactUsOption": ""
+    },
+    "localAd": {
+        "hideLocalAdNavLink": true
+    },
+    "header": {
+        "locationSelector": {
+            "show": "false"
+        }
+    },
+    "navStyle": {
+        "links": {
+            "fontSize ": "14"
+        },
+        "locationSelector": {
+            "show": "true",
+            "removeText": "Steve"
+        }
+    }
+}

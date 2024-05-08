@@ -1,0 +1,125 @@
+{
+  "businessSlug": "jLNYdkQ91o5x78Da",
+  "stripePublishable": "pk_live_TL6sTBk3kqmpiJQRqbn82Otc",
+  "stripeLive": false,
+  "businessName": "Gerretsen Building Supply",
+  "favicon": "https://www.gerretsen.com/wp-content/themes/tum-a-lum/images/favicons/apple-icon-57x57.png",
+  "colors": {
+    "primary": "#e31e24",
+    "secondary": "#231f20",
+    "text": "#2f3540",
+    "background": "#F7F7F7",
+    "header": "#000",
+    "navigation": "#000"
+  },
+  "layout": "gerretsen",
+  "logoLink": "https://www.gerretsen.com/",
+  "customLayout": true,
+  "navigationLayout": "secondary",
+  "font": "Open Sans",
+  "logo": "https://storage.googleapis.com/content.ezadtv.com/2020/08/31/5f4d4048ad76d_Logo.png",
+  "logoMaxHeight": "120px",
+  "subscribeBannerImage": "url(https://storage.googleapis.com/content.ezadtv.com/2020/05/13/5ebc26fe090a3_Gerretsen.jpg)",
+  "buyingFromAlert": {
+    "background": "primary",
+    "textColor": "white",
+    "visible": false
+  },
+  "homeAlert": {
+    "text": null,
+    "background": "primary",
+    "textColor": "white",
+    "visible": false,
+    "fontSize": 17,
+    "fontWeight" : "normal"
+  },
+  "text": {
+    "forRental": "In-Store Rental Equipment",
+    "inStore": "Curbside",
+    "specialOrderWarning": "Special Order From Vendor",
+    "outOfStock": "",
+    "noRentalItems": "There are no rental items",
+    "specialOrderTitle": "Special Order May Be Required",
+    "specialOrderText": "Subject to availability and seasonality from suppliers. If we cannot get it, you will be notified and refunded.",
+    "trademark": "All product and company names are trademarks™ or registered® trademarks of their respective holders. Use of them does not imply any affiliation with or endorsement by them.",
+    "deliveryConfirmationText": "Thanks for shopping!  Your order needs to be confirmed by one of our sales representatives to ensure products can be fulfilled and your requested delivery date can be accommodated.  We will send you a confirmation email when your order is finalized."
+  },
+  "footer": {
+    "links": [
+      {
+        "name": "",
+        "link": ""
+      }
+    ],
+    "facebookPage": "https://www.facebook.com/gerretsenbuildingsupply/",
+    "showSslLogo": "",
+    "locations": [
+      {
+        "address": "1900 NE Airport Rd",
+        "city": "Roseburg",
+        "state": "Oregon",
+        "zip": "97470",
+        "phone": "541.672.2636",
+        "googleMapsUrl": "https://goo.gl/maps/zhX4aemVzisDX5j38",
+        "storeInfoUrl": "http://www.gerretsen.com/location/"
+      }
+    ]
+  },
+  "products": {
+    "showDepartmentDropdownInSearch": true,
+    "capitalizeTitle": true,
+    "hideUpc": true,
+    "inventoryItemsMin": 0,
+    "itemsPerPage": 48,
+    "showVideos": true,
+    "showDescription": true,
+    "showSimilarProducts": true,
+    "showQtyInWidgets": true,
+    "sortOptions": [
+      {"value": "relevancy", "text": "Relevancy"},
+      {"value": "price-desc", "text": "Price High to Low"},
+      {"value": "price-asc", "text": "Price Low to High"},
+      {"value": "latest", "text": "New Arrivals"},
+      {"value": "title-asc", "text": "Alphabetical"}
+    ],
+    "defaultSorting": "relevancy"
+  },
+  "departments": {
+    "defaultSorting": "relevancy"
+  },
+  "brands": {
+    "defaultSorting": "relevancy"
+  },
+  "cart": {
+    "allowSavedCarts": true,
+    "enableDeliveryDate": true,
+    "rewardMembers": false,
+    "hideAddress" : false,
+    "specialOrderMessage": "Special order May Be Required",
+    "specialOrderDisclaimer": "Subject to Availability and seasonality from suppliers. If we cannot get it, you will be notified and refunded.",
+    "specialOrderBadge": "",
+    "specialOrderMessageTooltip": "You will receive shipping information over email within the next business day",
+    "empty": "Cart is empty. Browse the website and add the things you like!",
+    "submittedOrderImage": "",
+    "deliveryDisclaimer": "",
+    "confirmationText": "Thanks for shopping!  Your order needs to be confirmed by one of our sales representatives to ensure products can be fulfilled.  We will send you a confirmation email when your order is finalized and ready to be picked up."
+  },
+
+  "admin": {
+    "showStats": true,
+    "showOrderLocationFilters": true,
+    "hideSecondStep": true,
+    "showContractors": true
+  },
+  "navigation": [
+    { "name": "home" },
+    { "name": "departments" },
+    { "name": "Brands"},
+    { "name": "About Us", "align": "right" }
+  ],
+  "signup": {
+    "extraFields": [
+    ]
+  },
+  "adminNavigation" : true
+}

@@ -1,0 +1,163 @@
+{
+    "businessSlug": "Gf7EqnvU8Z4JIv5T",
+    "stripePublishable": "pk_test_SoQebsTMOLR2iExxLINSedwP",
+    "stripeLive": "",
+    "businessName": "Jones Home Center",
+    "favicon": "https:\/\/storage.googleapis.com\/content.ezadtv.com\/2020\/07\/21\/5f176eb56b124_favicon-32x32.png",
+    "colors": {
+        "primary": "#bf1e2e",
+        "secondary": "#7d4439",
+        "text": "#000000",
+        "background": "#f3f3f3",
+        "header": "",
+        "headerLinkColor": "",
+        "headerText": "#000000",
+        "navigation": "#ffffff"
+    },
+    "layout": "default",
+    "onlyFeatured": true,
+    "font": "",
+    "logo": "https:\/\/storage.googleapis.com\/content.ezadtv.com\/2020\/07\/21\/5f176f501125d_logo-3.png",
+    "subscribeBannerImage": "",
+    "buyingFromAlert": {
+        "background": "",
+        "textColor": "",
+        "visible": ""
+    },
+    "homeAlert": {
+        "visible": true,
+        "text": "Welcome to the Jones Home Center shopping website!",
+        "background": "white",
+        "textColor": "secondary",
+        "fontSize": 18,
+        "fontWeight": "bold"
+    },
+    "text": {
+        "featuredProductText": "",
+        "inStore": "",
+        "specialOrderWarning": "",
+        "outOfStock": "",
+        "noRentalItems": "",
+        "specialOrderTitle": "",
+        "specialOrderText": "",
+        "trademark": "",
+        "checkAvailability": "",
+        "emptyCart": "",
+        "cartDeliveryDisclaimer": "",
+        "forRental": ""
+    },
+    "footer": {
+        "links": ""
+    },
+    "products": {
+        "inventoryItemsMin": "",
+        "itemsPerPage": "",
+        "showVideos": true,
+        "showDescription": true,
+        "showSimilarProducts": true,
+        "showQtyInWidgets": true,
+        "sortOptions": "",
+        "defaultSorting": "",
+        "hideReg": false,
+        "filterShowOutOfStock": false,
+        "inStockProductRename": "",
+        "hideUpc": false,
+        "hideInStockCheckbox": false,
+        "disableOrdering": false,
+        "showThreeFiveDays": "",
+        "capitalizeTitle": "",
+        "regularPriceText": "",
+        "currencyPrefix": ""
+    },
+    "departments": {
+        "defaultSorting": ""
+    },
+    "brands": {
+        "defaultSorting": ""
+    },
+    "cart": {
+        "rewardMembers": "",
+        "hideAddress": "",
+        "specialOrderMessage": "",
+        "specialOrderDisclaimer": "",
+        "specialOrderBadge": "",
+        "specialOrderMessageTooltip": "",
+        "empty": "",
+        "submittedOrderImage": "",
+        "confirmationText": "",
+        "deliveryDisclaimer": "",
+        "taxJar": "",
+        "hideShipping": "",
+        "showSpecialOrderDays": "",
+        "enableDeliveryDate": "",
+        "promos": "",
+        "allowSpecialOrderVendors": [
+            2020
+        ],
+        "taxDisclaimer": "",
+        "additionalCountries": ""
+    },
+    "admin": {
+        "showStats": "",
+        "showOrderLocationFilters": "",
+        "orders": "",
+        "hideSecondStep": "",
+        "RSCOptions": ""
+    },
+    "testimonials": {
+        "1": "",
+        "2": ""
+    },
+    "liveChatCode": "",
+    "storeNumber": "",
+    "logoMaxWidth": "",
+    "logoMaxHeight": "",
+    "signup": {
+        "extraFields": ""
+    },
+    "contactUs": {
+        "hideEmail": ""
+    },
+    "logoSize": "",
+    "navigationBackground": "",
+    "whiteHeader": "",
+    "lightNav": "",
+    "displayName": "Jones Home Center",
+    "domain": "joneshome",
+    "newOrderEmails": "cadden1997@yahoo.com",
+    "contactEmail": "cadden1997@yahoo.com",
+    "company": "doitbest",
+    "navigation": [
+        {
+            "name": "home"
+        },
+        {
+            "name": "departments"
+        },
+        {
+            "name": "brands"
+        },
+        {
+            "name": "About Us",
+            "align": "right"
+        }
+    ],
+    "demo": false,
+    "homepageBanner": "",
+    "search": {
+        "checkboxFilters": ""
+    },
+    "timezone": "",
+    "meta": {
+        "description": "",
+        "loginDescription": "",
+        "mainImage": "",
+        "loginTitle": ""
+    },
+    "directory": "",
+    "overrideSubscribeImage": "",
+    "tax_rate": "",
+    "adminNavigation": true,
+    "showPhoneInNavigation": "",
+    "emailNavLink": ""
+}

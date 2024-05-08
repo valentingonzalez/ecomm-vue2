@@ -1,0 +1,84 @@
+{
+  "businessSlug": "sk57vbof7s36jkn5",
+  "stripePublishable": "pk_test_SoQebsTMOLR2iExxLINSedwP",
+  "businessName": "TM Hardware",
+  "favicon": "https://storage.googleapis.com/content.ezadtv.com/2020/05/05/5eb1f2249eeeb_favicon-32x324.png",
+  "colors": {
+    "primary": "#1C8ACE",
+    "secondary": "#282828",
+    "text": "#2f3540",
+    "background": "#F2F2F2",
+    "header": "secondary",
+    "navigation": "primary"
+  },
+  "layout": "catalog",
+  "font": "Raleway",
+  "logo": "https://storage.googleapis.com/content.ezadtv.com/2020/04/24/5ea351c15b278_tm-logo-white.svg",
+  "subscribeBannerImage": "url('http://api.ezadtv.com/storage/admin/subscription/yBXnQLsrgGQjkY7TrVTlrYxDpQ7LuhT9ARGMA83m.png')",
+  "buyingFromAlert": {
+    "background": "white",
+    "textColor": "text",
+    "visible": true
+  },
+  "homeAlert": {
+    "text": "Pricing Online May Vary From In-Store Pricing",
+    "background": "primary",
+    "textColor": "white",
+    "visible": true,
+    "fontSize": 17,
+    "fontWeight" : "bold"
+  },
+  "text": {
+    "forRental": "In-Store Rental Equipment",
+    "inStore": "Curbside",
+    "specialOrderWarning": "Call Your Local Store For Availability",
+    "outOfStock": "Purchase this product for quick pickup or ship it to our store from Do it Best.",
+    "noRentalItems": "There are no rental items",
+    "specialOrderTitle": "Pickup In-Store in 3-5 days",
+    "specialOrderText": "",
+    "trademark": "All product and company names are trademarks™ or registered® trademarks of their respective holders. Use of them does not imply any affiliation with or endorsement by them."
+  },
+  "footer": {
+  },
+  "products": {
+    "inventoryItemsMin": 0,
+    "itemsPerPage": 48,
+    "showVideos": true,
+    "showDescription": true,
+    "showSimilarProducts": true,
+    "showQtyInWidgets": true,
+    "sortOptions": [
+      {"value": "relevancy", "text": "Relevancy"},
+      {"value": "price-desc", "text": "Price High to Low"},
+      {"value": "price-asc", "text": "Price Low to High"},
+      {"value": "latest", "text": "New Arrivals"},
+      {"value": "title-asc", "text": "Alphabetical"}
+    ],
+    "defaultSorting": "relevancy"
+  },
+  "departments": {
+    "defaultSorting": "relevancy"
+  },
+  "brands": {
+    "defaultSorting": "relevancy"
+  },
+  "cart": {
+    "rewardMembers": false,
+    "showSpecialOrderDays": true,
+    "specialOrderMessage": "Pickup In-Store in 3-5 days",
+    "specialOrderBadge": "Shipping to store from Do it Best",
+    "empty": "Cart is empty. Browse the website and add the things you like!",
+    "deliveryDisclaimer": "Get stuff done around the house! We will bring it out for five bucks.<br>We are all in this together!"
+  },
+  "admin": {
+    "showStats": true,
+    "showOrderLocationFilters": true
+  },
+  "navigation": [
+    { "name": "home" },
+    { "name": "Rental Products", "target": "rentals" },
+    { "name": "departments" },
+    { "name": "About Us", "align": "right" }
+   ],
+  "adminNavigation": false
+}
